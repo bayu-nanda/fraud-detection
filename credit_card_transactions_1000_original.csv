@@ -1,0 +1,1001 @@
+TransactionID,UserID,Timestamp,Amount,Location,Merchant,CardType,IsForeignTransaction,IsOnline,Age,Gender
+T0001,U025,2025-07-01 13:32:53,337.06,"San Francisco, USA",Uniqlo,Amex,No,Yes,38,Female
+T0002,U023,2025-07-05 05:37:31,165.23,"Berlin, DE",Alfamart,Amex,No,No,55,Female
+T0003,U039,2025-06-28 02:24:08,36.33,"Singapore, SG",Gojek,Amex,No,Yes,61,Female
+T0004,U018,2025-06-30 22:24:50,10.28,"London, UK",Apple Store,Amex,No,No,39,Male
+T0005,U004,2025-07-05 00:14:16,115.28,"Berlin, DE",Amazon,Mastercard,No,Yes,32,Male
+T0006,U037,2025-07-01 20:56:52,58.01,"Lagos, NG",Apple Store,Amex,No,No,64,Female
+T0007,U042,2025-06-27 11:00:06,13.02,"Paris, FR",Starbucks,Mastercard,Yes,No,54,Female
+T0008,U035,2025-07-03 00:28:29,68.35,"San Francisco, USA",Gucci,Mastercard,No,Yes,33,Female
+T0009,U015,2025-06-29 17:22:32,3.5,"Singapore, SG",Gojek,Mastercard,Yes,Yes,57,Male
+T0010,U008,2025-06-30 13:55:15,240.04,"Singapore, SG",Starbucks,Amex,No,Yes,56,Male
+T0011,U025,2025-06-26 16:57:40,29.95,"Bangkok, TH",Uniqlo,Amex,No,Yes,38,Female
+T0012,U001,2025-07-04 20:56:16,108.63,"Jakarta, ID",Gojek,Mastercard,No,Yes,56,Male
+T0013,U019,2025-07-03 18:00:55,37.35,"Tokyo, JP",Starbucks,Mastercard,Yes,No,19,Female
+T0014,U047,2025-06-29 10:42:55,73.41,"San Francisco, USA",Gojek,Visa,No,Yes,56,Female
+T0015,U041,2025-07-01 14:52:09,79.12,"San Francisco, USA",Gojek,Amex,Yes,Yes,20,Female
+T0016,U011,2025-07-02 04:48:30,20.44,"London, UK",Gojek,Visa,No,Yes,28,Male
+T0017,U008,2025-07-01 12:06:56,349.28,"Lagos, NG",Alfamart,Visa,Yes,No,56,Male
+T0018,U006,2025-06-26 23:07:35,149.22,"Jakarta, ID",Uniqlo,Visa,No,Yes,25,Male
+T0019,U009,2025-06-30 13:08:15,280.51,"Singapore, SG",Uniqlo,Amex,Yes,Yes,36,Female
+T0020,U039,2025-07-02 03:39:54,225.22,"Tokyo, JP",Apple Store,Amex,No,No,61,Female
+T0021,U046,2025-06-30 19:54:02,91.11,"San Francisco, USA",CryptoExchange,Amex,No,Yes,26,Male
+T0022,U034,2025-07-01 23:37:11,254.94,"Paris, FR",Tokopedia,Visa,No,Yes,45,Female
+T0023,U038,2025-06-30 21:58:39,9.27,"London, UK",Apple Store,Amex,No,Yes,68,Male
+T0024,U041,2025-07-01 19:26:27,21.81,"New York, USA",Apple Store,Visa,No,No,20,Female
+T0025,U005,2025-06-28 09:23:53,4.63,"London, UK",Apple Store,Mastercard,No,Yes,60,Male
+T0026,U009,2025-07-04 07:26:33,39.35,"Bangkok, TH",Gucci,Mastercard,No,Yes,36,Female
+T0027,U027,2025-07-02 18:04:35,49.21,"Berlin, DE",Tokopedia,Visa,No,Yes,29,Male
+T0028,U027,2025-07-02 23:43:15,31.66,"Paris, FR",Amazon,Amex,No,No,29,Male
+T0029,U004,2025-07-03 10:11:48,176.46,"Tokyo, JP",eBay,Visa,No,Yes,32,Male
+T0030,U029,2025-07-05 03:35:12,44.12,"Singapore, SG",CryptoExchange,Visa,No,Yes,61,Male
+T0031,U005,2025-06-26 17:37:45,32.98,"Paris, FR",Gojek,Visa,Yes,No,60,Male
+T0032,U001,2025-06-28 13:44:02,78.24,"Jakarta, ID",Apple Store,Visa,No,Yes,56,Male
+T0033,U026,2025-06-29 08:40:03,15.19,"New York, USA",Starbucks,Mastercard,Yes,Yes,50,Male
+T0034,U030,2025-07-03 19:03:10,162.05,"San Francisco, USA",CryptoExchange,Amex,No,No,42,Male
+T0035,U036,2025-06-26 20:12:51,7.75,"Paris, FR",Starbucks,Visa,No,No,32,Male
+T0036,U038,2025-07-04 11:16:39,433.41,"London, UK",Amazon,Amex,No,Yes,68,Male
+T0037,U031,2025-07-04 18:07:59,147.95,"London, UK",Gojek,Visa,Yes,Yes,66,Female
+T0038,U012,2025-06-28 11:58:02,22.15,"Jakarta, ID",Gucci,Visa,No,Yes,28,Male
+T0039,U008,2025-06-28 13:01:50,0.55,"Bangkok, TH",Apple Store,Amex,No,No,56,Male
+T0040,U027,2025-06-29 22:57:18,168.99,"Bangkok, TH",Gucci,Amex,No,Yes,29,Male
+T0041,U043,2025-06-28 10:39:11,122.71,"Lagos, NG",Apple Store,Mastercard,No,No,68,Male
+T0042,U020,2025-07-01 03:12:33,130.57,"Paris, FR",eBay,Visa,Yes,No,41,Female
+T0043,U037,2025-06-28 13:01:30,147.52,"Jakarta, ID",Tokopedia,Amex,No,Yes,64,Female
+T0044,U023,2025-07-03 07:54:36,7.69,"Jakarta, ID",Apple Store,Mastercard,No,Yes,55,Female
+T0045,U035,2025-07-01 11:05:08,44.39,"San Francisco, USA",Gucci,Amex,No,No,33,Female
+T0046,U036,2025-07-05 05:15:44,12.32,"San Francisco, USA",Tokopedia,Visa,No,No,32,Male
+T0047,U048,2025-06-29 05:04:37,198.85,"London, UK",Starbucks,Mastercard,No,Yes,35,Male
+T0048,U022,2025-07-03 06:56:34,97.63,"Berlin, DE",Alfamart,Amex,No,No,47,Male
+T0049,U004,2025-07-03 04:26:42,40.18,"Jakarta, ID",CryptoExchange,Mastercard,Yes,Yes,32,Male
+T0050,U009,2025-07-01 18:46:42,6.57,"San Francisco, USA",Starbucks,Amex,No,No,36,Female
+T0051,U036,2025-07-05 09:48:03,37.25,"New York, USA",Tokopedia,Visa,No,No,32,Male
+T0052,U010,2025-06-26 11:31:25,39.33,"London, UK",Amazon,Mastercard,No,Yes,40,Male
+T0053,U009,2025-07-02 15:18:50,130.79,"New York, USA",Alfamart,Mastercard,No,No,36,Female
+T0054,U003,2025-06-30 15:42:36,101.49,"Lagos, NG",Apple Store,Amex,No,Yes,46,Female
+T0055,U050,2025-07-04 00:49:16,218.23,"London, UK",CryptoExchange,Amex,No,No,42,Male
+T0056,U016,2025-07-02 21:57:47,63.91,"Singapore, SG",Starbucks,Mastercard,Yes,No,41,Male
+T0057,U022,2025-07-05 16:52:46,12.74,"Tokyo, JP",Apple Store,Mastercard,Yes,No,47,Male
+T0058,U025,2025-07-02 19:10:06,124.91,"New York, USA",Uniqlo,Visa,Yes,No,38,Female
+T0059,U023,2025-07-02 11:53:46,143.04,"San Francisco, USA",Apple Store,Visa,Yes,Yes,55,Female
+T0060,U022,2025-06-27 08:58:12,82.39,"San Francisco, USA",Tokopedia,Mastercard,No,Yes,47,Male
+T0061,U044,2025-07-04 02:20:51,147.39,"London, UK",eBay,Visa,Yes,No,24,Male
+T0062,U012,2025-07-03 18:55:35,68.08,"Bangkok, TH",Alfamart,Visa,Yes,Yes,28,Male
+T0063,U047,2025-07-03 03:48:21,73.97,"Lagos, NG",CryptoExchange,Amex,No,Yes,56,Female
+T0064,U037,2025-07-02 23:10:29,55.78,"Berlin, DE",Alfamart,Visa,No,Yes,64,Female
+T0065,U035,2025-06-28 10:55:48,2.57,"Berlin, DE",eBay,Mastercard,Yes,No,33,Female
+T0066,U022,2025-06-29 17:46:33,11.42,"Bangkok, TH",eBay,Amex,No,No,47,Male
+T0067,U020,2025-06-27 12:29:43,3.19,"London, UK",Alfamart,Amex,No,Yes,41,Female
+T0068,U019,2025-07-05 10:16:06,101.17,"London, UK",Starbucks,Visa,No,No,19,Female
+T0069,U044,2025-07-01 00:19:37,37.74,"Singapore, SG",Gucci,Amex,No,Yes,24,Male
+T0070,U001,2025-06-30 22:19:04,71.04,"San Francisco, USA",Alfamart,Visa,No,Yes,56,Male
+T0071,U042,2025-06-28 22:31:32,238.13,"Lagos, NG",Uniqlo,Mastercard,No,Yes,54,Female
+T0072,U031,2025-07-05 09:34:30,28.67,"Singapore, SG",Tokopedia,Mastercard,No,No,66,Female
+T0073,U022,2025-07-03 12:05:51,52.83,"Jakarta, ID",Apple Store,Amex,No,No,47,Male
+T0074,U010,2025-06-29 11:14:19,140.87,"New York, USA",Amazon,Visa,No,No,40,Male
+T0075,U050,2025-06-26 19:16:38,25.98,"Jakarta, ID",Uniqlo,Mastercard,No,Yes,42,Male
+T0076,U046,2025-07-01 14:44:59,8.01,"Tokyo, JP",Uniqlo,Mastercard,No,No,26,Male
+T0077,U001,2025-06-29 13:50:51,34.21,"Jakarta, ID",CryptoExchange,Visa,Yes,No,56,Male
+T0078,U034,2025-06-25 21:07:58,17.58,"Paris, FR",Amazon,Amex,No,No,45,Female
+T0079,U030,2025-06-25 18:45:36,265.5,"Singapore, SG",Uniqlo,Amex,No,Yes,42,Male
+T0080,U021,2025-06-30 10:43:26,165.09,"Paris, FR",Gucci,Amex,No,Yes,61,Male
+T0081,U036,2025-06-28 16:04:26,100.35,"Paris, FR",Starbucks,Amex,No,Yes,32,Male
+T0082,U049,2025-06-26 04:30:42,205.15,"Berlin, DE",Alfamart,Amex,No,Yes,21,Male
+T0083,U029,2025-07-03 11:46:03,162.8,"Jakarta, ID",Alfamart,Visa,No,Yes,61,Male
+T0084,U035,2025-07-04 19:05:35,20.65,"Jakarta, ID",Starbucks,Visa,No,No,33,Female
+T0085,U046,2025-07-04 15:54:42,223.08,"Berlin, DE",Tokopedia,Mastercard,No,Yes,26,Male
+T0086,U027,2025-06-27 10:48:28,77.51,"New York, USA",Apple Store,Mastercard,No,No,29,Male
+T0087,U045,2025-06-30 06:42:42,164.73,"New York, USA",Gucci,Mastercard,No,No,38,Male
+T0088,U020,2025-06-28 23:11:49,226.42,"Tokyo, JP",CryptoExchange,Amex,No,Yes,41,Female
+T0089,U039,2025-06-26 23:17:34,38.27,"Berlin, DE",Uniqlo,Visa,No,Yes,61,Female
+T0090,U025,2025-06-27 19:57:29,11.66,"Lagos, NG",CryptoExchange,Amex,Yes,Yes,38,Female
+T0091,U009,2025-07-04 04:46:18,25.87,"Bangkok, TH",Gojek,Visa,No,Yes,36,Female
+T0092,U043,2025-06-30 22:12:46,55.71,"New York, USA",Tokopedia,Amex,No,No,68,Male
+T0093,U012,2025-07-02 19:56:05,170.38,"New York, USA",Alfamart,Mastercard,No,Yes,28,Male
+T0094,U022,2025-07-03 05:37:19,197.13,"Tokyo, JP",Alfamart,Mastercard,No,Yes,47,Male
+T0095,U002,2025-06-26 04:16:31,0.7,"London, UK",Amazon,Mastercard,No,Yes,69,Male
+T0096,U042,2025-06-27 22:47:18,71.49,"New York, USA",Amazon,Visa,Yes,Yes,54,Female
+T0097,U010,2025-06-26 19:12:03,54.03,"Berlin, DE",Starbucks,Mastercard,No,Yes,40,Male
+T0098,U014,2025-07-04 05:14:00,25.12,"Paris, FR",Alfamart,Mastercard,Yes,No,53,Male
+T0099,U048,2025-07-02 08:01:37,12.77,"Jakarta, ID",Starbucks,Mastercard,Yes,Yes,35,Male
+T0100,U020,2025-07-04 17:41:59,41.19,"Bangkok, TH",CryptoExchange,Mastercard,No,Yes,41,Female
+T0101,U038,2025-07-02 16:32:15,286.31,"Berlin, DE",Tokopedia,Amex,No,No,68,Male
+T0102,U039,2025-06-26 11:03:26,39.04,"Jakarta, ID",Gucci,Visa,No,Yes,61,Female
+T0103,U024,2025-07-04 01:34:22,73.15,"Jakarta, ID",Gojek,Amex,No,No,19,Female
+T0104,U032,2025-07-02 02:56:52,121.41,"Jakarta, ID",CryptoExchange,Mastercard,No,No,44,Male
+T0105,U046,2025-07-03 20:28:46,45.2,"Singapore, SG",CryptoExchange,Visa,No,No,26,Male
+T0106,U018,2025-06-29 12:11:40,356.78,"Bangkok, TH",Gojek,Mastercard,No,No,39,Male
+T0107,U038,2025-07-03 00:10:27,328.2,"San Francisco, USA",eBay,Visa,No,Yes,68,Male
+T0108,U029,2025-07-01 08:03:58,29.01,"Berlin, DE",Uniqlo,Amex,No,Yes,61,Male
+T0109,U002,2025-06-30 17:06:14,68.77,"Paris, FR",eBay,Visa,No,Yes,69,Male
+T0110,U017,2025-06-29 01:17:01,35.79,"Lagos, NG",Alfamart,Amex,No,Yes,20,Female
+T0111,U001,2025-06-26 01:23:47,33.52,"London, UK",Apple Store,Visa,No,Yes,56,Male
+T0112,U036,2025-07-03 17:35:14,3.76,"Berlin, DE",Uniqlo,Amex,No,Yes,32,Male
+T0113,U002,2025-07-02 14:29:46,94.05,"Jakarta, ID",Alfamart,Visa,No,Yes,69,Male
+T0114,U043,2025-07-02 16:03:28,69.85,"Bangkok, TH",eBay,Mastercard,No,Yes,68,Male
+T0115,U048,2025-07-03 17:09:19,5.29,"London, UK",eBay,Mastercard,No,Yes,35,Male
+T0116,U017,2025-07-03 04:36:55,32.66,"Berlin, DE",Tokopedia,Amex,Yes,Yes,20,Female
+T0117,U035,2025-06-27 03:20:09,238.89,"Singapore, SG",Apple Store,Visa,No,Yes,33,Female
+T0118,U038,2025-07-03 07:05:13,27.39,"London, UK",Gucci,Mastercard,No,No,68,Male
+T0119,U019,2025-06-29 10:36:26,15.65,"Berlin, DE",eBay,Visa,No,No,19,Female
+T0120,U009,2025-07-05 08:02:59,67.23,"San Francisco, USA",Amazon,Visa,No,No,36,Female
+T0121,U009,2025-06-28 23:40:36,424.4,"Paris, FR",Tokopedia,Visa,No,Yes,36,Female
+T0122,U029,2025-06-27 16:47:43,27.71,"Lagos, NG",Starbucks,Visa,No,No,61,Male
+T0123,U008,2025-06-28 22:29:10,111.52,"Jakarta, ID",CryptoExchange,Mastercard,Yes,No,56,Male
+T0124,U004,2025-07-01 14:49:37,143.39,"Singapore, SG",Starbucks,Amex,No,Yes,32,Male
+T0125,U016,2025-07-01 16:43:32,27.13,"Jakarta, ID",Gojek,Mastercard,No,No,41,Male
+T0126,U015,2025-06-28 21:06:21,130.27,"London, UK",CryptoExchange,Mastercard,No,Yes,57,Male
+T0127,U038,2025-06-28 04:12:13,45.85,"Tokyo, JP",Alfamart,Amex,No,No,68,Male
+T0128,U048,2025-07-03 22:07:51,100.05,"Jakarta, ID",Apple Store,Amex,No,No,35,Male
+T0129,U011,2025-06-30 21:58:02,100.38,"Berlin, DE",Starbucks,Amex,Yes,Yes,28,Male
+T0130,U029,2025-06-27 15:28:02,76.74,"Bangkok, TH",Uniqlo,Mastercard,Yes,Yes,61,Male
+T0131,U019,2025-06-27 14:10:45,9.46,"Paris, FR",Tokopedia,Amex,No,Yes,19,Female
+T0132,U041,2025-06-27 10:51:07,180.36,"Bangkok, TH",Apple Store,Mastercard,Yes,Yes,20,Female
+T0133,U010,2025-06-30 11:02:39,38.68,"San Francisco, USA",Starbucks,Visa,Yes,No,40,Male
+T0134,U039,2025-06-28 23:00:20,20.64,"Bangkok, TH",Alfamart,Mastercard,Yes,No,61,Female
+T0135,U045,2025-07-04 01:07:43,4.16,"Tokyo, JP",Alfamart,Amex,No,Yes,38,Male
+T0136,U039,2025-06-29 08:50:23,89.38,"New York, USA",CryptoExchange,Amex,No,Yes,61,Female
+T0137,U006,2025-06-27 22:41:14,113.19,"Berlin, DE",Gucci,Amex,No,No,25,Male
+T0138,U044,2025-06-27 04:12:56,1.67,"San Francisco, USA",Gucci,Visa,No,Yes,24,Male
+T0139,U034,2025-06-29 01:51:34,71.76,"Paris, FR",Alfamart,Visa,No,Yes,45,Female
+T0140,U032,2025-06-27 13:48:31,25.68,"Jakarta, ID",Uniqlo,Mastercard,No,Yes,44,Male
+T0141,U007,2025-06-26 15:25:46,103.61,"Singapore, SG",eBay,Mastercard,No,Yes,38,Male
+T0142,U026,2025-07-03 16:59:34,19.16,"London, UK",Amazon,Mastercard,Yes,Yes,50,Male
+T0143,U008,2025-07-02 19:32:54,117.42,"Tokyo, JP",Gojek,Visa,No,Yes,56,Male
+T0144,U027,2025-07-01 17:38:23,48.9,"New York, USA",Apple Store,Amex,No,No,29,Male
+T0145,U041,2025-07-03 16:14:43,276.03,"Paris, FR",Amazon,Visa,No,Yes,20,Female
+T0146,U019,2025-06-26 08:35:47,14.79,"Paris, FR",Uniqlo,Visa,Yes,No,19,Female
+T0147,U016,2025-07-02 00:22:02,41.71,"Singapore, SG",Alfamart,Amex,Yes,Yes,41,Male
+T0148,U015,2025-06-30 13:41:37,12.04,"Jakarta, ID",Uniqlo,Visa,No,Yes,57,Male
+T0149,U046,2025-07-05 08:23:56,258.62,"San Francisco, USA",Gojek,Amex,No,No,26,Male
+T0150,U031,2025-06-30 02:38:21,209.83,"Berlin, DE",Uniqlo,Amex,Yes,Yes,66,Female
+T0151,U039,2025-06-27 06:42:15,29.83,"London, UK",Starbucks,Visa,No,No,61,Female
+T0152,U027,2025-07-02 20:00:10,107.88,"Lagos, NG",Gojek,Mastercard,No,Yes,29,Male
+T0153,U020,2025-06-29 22:41:31,169.95,"Bangkok, TH",Gucci,Amex,No,Yes,41,Female
+T0154,U035,2025-06-26 23:20:03,81.01,"Paris, FR",eBay,Mastercard,No,Yes,33,Female
+T0155,U030,2025-07-01 02:45:04,75.43,"Lagos, NG",Apple Store,Amex,No,Yes,42,Male
+T0156,U050,2025-06-30 07:31:39,27.69,"Tokyo, JP",Amazon,Mastercard,No,No,42,Male
+T0157,U025,2025-07-04 04:04:59,9.77,"Tokyo, JP",Starbucks,Mastercard,No,Yes,38,Female
+T0158,U038,2025-06-29 17:11:59,227.51,"Lagos, NG",Tokopedia,Mastercard,Yes,No,68,Male
+T0159,U001,2025-07-02 00:07:24,230.68,"Singapore, SG",CryptoExchange,Amex,No,Yes,56,Male
+T0160,U017,2025-06-30 20:27:00,100.27,"Lagos, NG",Gucci,Amex,No,Yes,20,Female
+T0161,U022,2025-06-28 22:39:35,41.4,"London, UK",CryptoExchange,Mastercard,No,No,47,Male
+T0162,U032,2025-06-27 14:45:31,42.96,"London, UK",Amazon,Amex,Yes,No,44,Male
+T0163,U019,2025-07-03 08:27:43,129.45,"Berlin, DE",Tokopedia,Mastercard,No,No,19,Female
+T0164,U046,2025-06-28 19:17:09,227.41,"Jakarta, ID",Uniqlo,Visa,No,No,26,Male
+T0165,U003,2025-07-04 12:18:11,218.11,"Lagos, NG",Amazon,Mastercard,No,Yes,46,Female
+T0166,U016,2025-07-03 02:58:54,151.36,"London, UK",CryptoExchange,Amex,No,Yes,41,Male
+T0167,U012,2025-06-25 18:05:12,102.73,"Jakarta, ID",Gucci,Mastercard,No,Yes,28,Male
+T0168,U038,2025-06-27 21:34:13,8.79,"Singapore, SG",Apple Store,Mastercard,No,Yes,68,Male
+T0169,U043,2025-06-25 19:36:39,17.63,"New York, USA",Uniqlo,Mastercard,No,Yes,68,Male
+T0170,U029,2025-07-05 13:30:12,228.82,"Lagos, NG",Gucci,Mastercard,No,Yes,61,Male
+T0171,U017,2025-07-02 07:21:29,93.25,"Paris, FR",Alfamart,Visa,No,No,20,Female
+T0172,U007,2025-07-03 10:10:53,0.92,"Berlin, DE",CryptoExchange,Amex,No,Yes,38,Male
+T0173,U045,2025-06-27 07:23:34,10.7,"San Francisco, USA",Amazon,Amex,No,Yes,38,Male
+T0174,U044,2025-07-01 02:28:52,108.92,"New York, USA",Gucci,Amex,No,No,24,Male
+T0175,U019,2025-07-05 15:36:23,0.51,"Berlin, DE",Gucci,Mastercard,No,Yes,19,Female
+T0176,U017,2025-07-03 20:18:43,17.53,"Singapore, SG",Tokopedia,Amex,No,Yes,20,Female
+T0177,U029,2025-06-28 14:04:56,79.57,"New York, USA",Gucci,Mastercard,No,Yes,61,Male
+T0178,U019,2025-06-30 03:00:53,117.73,"Lagos, NG",CryptoExchange,Visa,No,No,19,Female
+T0179,U024,2025-06-25 21:20:37,105.54,"London, UK",Gojek,Mastercard,No,Yes,19,Female
+T0180,U031,2025-07-02 04:18:34,25.39,"San Francisco, USA",eBay,Visa,No,Yes,66,Female
+T0181,U049,2025-07-04 04:06:15,124.54,"Berlin, DE",CryptoExchange,Amex,No,No,21,Male
+T0182,U001,2025-06-28 03:56:31,27.08,"San Francisco, USA",Gojek,Visa,No,No,56,Male
+T0183,U044,2025-07-04 01:39:06,39.36,"San Francisco, USA",Gucci,Mastercard,No,No,24,Male
+T0184,U007,2025-07-02 02:05:01,137.24,"Berlin, DE",Uniqlo,Visa,No,No,38,Male
+T0185,U021,2025-06-25 19:17:13,104.88,"Bangkok, TH",Apple Store,Amex,Yes,No,61,Male
+T0186,U045,2025-07-02 01:54:43,189.2,"San Francisco, USA",CryptoExchange,Visa,Yes,No,38,Male
+T0187,U020,2025-07-03 03:06:12,107.18,"Paris, FR",Tokopedia,Visa,No,Yes,41,Female
+T0188,U025,2025-07-01 05:26:29,84.0,"Paris, FR",eBay,Amex,No,No,38,Female
+T0189,U035,2025-07-05 11:44:45,9.84,"Tokyo, JP",Gucci,Amex,No,No,33,Female
+T0190,U042,2025-06-30 21:38:39,45.84,"Jakarta, ID",Uniqlo,Amex,No,No,54,Female
+T0191,U003,2025-06-30 11:59:53,30.82,"Lagos, NG",Apple Store,Mastercard,No,Yes,46,Female
+T0192,U024,2025-07-02 17:23:54,27.97,"Jakarta, ID",eBay,Amex,No,No,19,Female
+T0193,U004,2025-06-27 05:56:36,361.23,"Tokyo, JP",Alfamart,Visa,No,No,32,Male
+T0194,U030,2025-07-05 08:08:52,49.94,"Jakarta, ID",Apple Store,Amex,No,No,42,Male
+T0195,U004,2025-06-26 19:24:07,222.61,"Lagos, NG",Apple Store,Visa,No,Yes,32,Male
+T0196,U049,2025-07-02 07:09:37,99.73,"London, UK",Apple Store,Amex,No,No,21,Male
+T0197,U022,2025-06-26 22:10:03,158.38,"Singapore, SG",Gucci,Visa,No,No,47,Male
+T0198,U009,2025-06-27 04:34:16,69.84,"London, UK",Alfamart,Visa,Yes,No,36,Female
+T0199,U009,2025-06-27 14:27:58,86.02,"New York, USA",eBay,Visa,No,Yes,36,Female
+T0200,U017,2025-07-01 08:53:18,67.83,"New York, USA",Starbucks,Amex,No,Yes,20,Female
+T0201,U005,2025-07-02 12:51:06,21.72,"Paris, FR",Uniqlo,Mastercard,No,Yes,60,Male
+T0202,U033,2025-07-04 14:56:36,128.18,"Berlin, DE",Gucci,Visa,No,No,59,Female
+T0203,U043,2025-07-04 11:23:40,32.96,"London, UK",Alfamart,Mastercard,No,Yes,68,Male
+T0204,U031,2025-07-04 09:38:25,2.46,"Tokyo, JP",CryptoExchange,Amex,Yes,No,66,Female
+T0205,U029,2025-07-05 02:26:15,103.7,"Jakarta, ID",Tokopedia,Mastercard,No,Yes,61,Male
+T0206,U018,2025-07-02 09:51:05,19.49,"Bangkok, TH",Gucci,Amex,No,Yes,39,Male
+T0207,U039,2025-06-27 05:56:11,282.11,"London, UK",Alfamart,Mastercard,No,Yes,61,Female
+T0208,U045,2025-06-28 22:12:48,307.76,"Jakarta, ID",Gojek,Amex,No,Yes,38,Male
+T0209,U015,2025-07-03 13:09:21,246.35,"Tokyo, JP",eBay,Mastercard,No,No,57,Male
+T0210,U021,2025-06-26 14:59:58,46.23,"Tokyo, JP",eBay,Amex,No,No,61,Male
+T0211,U044,2025-06-29 23:19:15,1.56,"Paris, FR",Tokopedia,Visa,No,Yes,24,Male
+T0212,U007,2025-07-01 01:00:54,263.55,"Lagos, NG",Starbucks,Amex,Yes,No,38,Male
+T0213,U036,2025-06-29 00:07:40,55.89,"Lagos, NG",Tokopedia,Mastercard,No,No,32,Male
+T0214,U049,2025-07-05 04:17:46,340.08,"Tokyo, JP",Amazon,Mastercard,No,Yes,21,Male
+T0215,U037,2025-07-05 13:15:11,331.37,"London, UK",Apple Store,Visa,No,Yes,64,Female
+T0216,U007,2025-07-01 11:17:16,191.74,"Lagos, NG",Gojek,Mastercard,Yes,Yes,38,Male
+T0217,U015,2025-07-04 01:47:56,34.88,"Tokyo, JP",Gojek,Amex,No,No,57,Male
+T0218,U002,2025-07-01 13:08:47,48.63,"Bangkok, TH",Alfamart,Visa,Yes,No,69,Male
+T0219,U020,2025-07-02 11:10:39,190.47,"Lagos, NG",eBay,Visa,Yes,Yes,41,Female
+T0220,U043,2025-06-30 04:12:51,38.11,"Tokyo, JP",Tokopedia,Visa,No,No,68,Male
+T0221,U006,2025-07-03 01:23:34,18.57,"London, UK",Apple Store,Mastercard,No,Yes,25,Male
+T0222,U024,2025-06-29 11:48:53,81.37,"San Francisco, USA",eBay,Amex,No,No,19,Female
+T0223,U010,2025-07-03 03:49:46,275.13,"Singapore, SG",Gucci,Visa,No,Yes,40,Male
+T0224,U043,2025-07-02 10:54:34,119.08,"Tokyo, JP",Uniqlo,Amex,No,Yes,68,Male
+T0225,U049,2025-06-26 09:01:51,84.41,"London, UK",Tokopedia,Mastercard,No,Yes,21,Male
+T0226,U044,2025-07-04 03:01:19,10.22,"Bangkok, TH",Uniqlo,Amex,No,Yes,24,Male
+T0227,U026,2025-07-03 06:27:54,95.45,"Bangkok, TH",Amazon,Visa,No,No,50,Male
+T0228,U050,2025-06-26 07:43:00,461.06,"Singapore, SG",Alfamart,Mastercard,No,Yes,42,Male
+T0229,U048,2025-06-25 19:14:51,15.09,"Tokyo, JP",Starbucks,Visa,No,No,35,Male
+T0230,U033,2025-06-30 16:06:02,73.05,"London, UK",eBay,Visa,No,No,59,Female
+T0231,U028,2025-07-04 20:10:02,209.86,"New York, USA",Uniqlo,Visa,No,Yes,39,Female
+T0232,U037,2025-07-04 05:23:50,135.0,"Tokyo, JP",CryptoExchange,Mastercard,Yes,Yes,64,Female
+T0233,U021,2025-07-03 16:25:47,119.41,"Singapore, SG",Gucci,Mastercard,No,No,61,Male
+T0234,U006,2025-06-27 09:04:25,121.23,"Tokyo, JP",Tokopedia,Visa,No,Yes,25,Male
+T0235,U006,2025-06-30 11:56:02,44.55,"Tokyo, JP",Alfamart,Amex,No,Yes,25,Male
+T0236,U011,2025-06-28 06:08:34,34.76,"Jakarta, ID",Gojek,Amex,Yes,Yes,28,Male
+T0237,U050,2025-07-05 05:01:11,165.74,"Lagos, NG",eBay,Amex,No,No,42,Male
+T0238,U010,2025-06-28 18:34:32,166.13,"Berlin, DE",Tokopedia,Visa,No,Yes,40,Male
+T0239,U010,2025-06-26 20:55:57,201.8,"Jakarta, ID",Starbucks,Amex,No,No,40,Male
+T0240,U049,2025-07-05 00:40:01,244.46,"Bangkok, TH",Uniqlo,Amex,No,Yes,21,Male
+T0241,U041,2025-06-29 01:06:46,71.61,"Bangkok, TH",eBay,Amex,No,Yes,20,Female
+T0242,U031,2025-07-03 11:16:22,69.62,"Paris, FR",Alfamart,Mastercard,No,Yes,66,Female
+T0243,U005,2025-06-30 08:53:32,160.09,"San Francisco, USA",Uniqlo,Mastercard,Yes,Yes,60,Male
+T0244,U019,2025-07-02 07:39:00,104.97,"Jakarta, ID",Tokopedia,Amex,No,Yes,19,Female
+T0245,U038,2025-06-30 21:46:10,121.06,"London, UK",Amazon,Mastercard,No,Yes,68,Male
+T0246,U013,2025-07-01 17:08:41,158.86,"Lagos, NG",Gucci,Mastercard,No,No,41,Male
+T0247,U029,2025-06-30 05:21:38,220.73,"Jakarta, ID",eBay,Amex,Yes,No,61,Male
+T0248,U003,2025-07-02 22:12:49,41.25,"Berlin, DE",Uniqlo,Mastercard,No,No,46,Female
+T0249,U024,2025-07-01 13:20:02,47.09,"Lagos, NG",Alfamart,Mastercard,No,Yes,19,Female
+T0250,U039,2025-07-03 20:09:27,9.87,"New York, USA",eBay,Visa,No,Yes,61,Female
+T0251,U025,2025-06-30 07:16:16,86.34,"San Francisco, USA",Alfamart,Amex,No,No,38,Female
+T0252,U039,2025-07-03 22:20:04,3.66,"Singapore, SG",eBay,Visa,No,Yes,61,Female
+T0253,U023,2025-07-02 06:13:39,62.66,"San Francisco, USA",CryptoExchange,Visa,No,No,55,Female
+T0254,U020,2025-06-29 16:22:34,78.23,"London, UK",CryptoExchange,Amex,No,No,41,Female
+T0255,U043,2025-07-03 21:34:27,33.76,"London, UK",Tokopedia,Amex,No,Yes,68,Male
+T0256,U002,2025-06-27 12:34:03,89.36,"Lagos, NG",Alfamart,Visa,No,Yes,69,Male
+T0257,U050,2025-07-05 09:46:23,3.1,"Paris, FR",Apple Store,Visa,No,Yes,42,Male
+T0258,U019,2025-06-30 10:53:15,3.81,"Jakarta, ID",Gojek,Amex,No,No,19,Female
+T0259,U003,2025-07-05 15:25:38,172.94,"Lagos, NG",Gucci,Visa,No,Yes,46,Female
+T0260,U012,2025-06-29 21:01:51,44.66,"Bangkok, TH",Starbucks,Amex,No,Yes,28,Male
+T0261,U044,2025-07-04 02:50:10,13.59,"Berlin, DE",Uniqlo,Amex,No,No,24,Male
+T0262,U029,2025-07-01 15:33:24,73.87,"Berlin, DE",Gojek,Visa,No,No,61,Male
+T0263,U031,2025-06-29 14:18:29,146.96,"Berlin, DE",eBay,Amex,No,No,66,Female
+T0264,U030,2025-07-03 11:08:28,24.31,"San Francisco, USA",CryptoExchange,Amex,No,No,42,Male
+T0265,U013,2025-06-27 04:22:47,97.52,"Bangkok, TH",Starbucks,Mastercard,Yes,Yes,41,Male
+T0266,U024,2025-07-01 07:45:11,8.92,"London, UK",Tokopedia,Amex,No,No,19,Female
+T0267,U019,2025-07-02 14:17:59,5.31,"Jakarta, ID",Starbucks,Mastercard,No,Yes,19,Female
+T0268,U028,2025-07-03 05:55:40,75.79,"Jakarta, ID",Apple Store,Mastercard,No,No,39,Female
+T0269,U027,2025-06-29 04:40:19,77.79,"New York, USA",CryptoExchange,Amex,No,Yes,29,Male
+T0270,U006,2025-07-03 04:58:36,101.45,"Lagos, NG",Apple Store,Visa,No,Yes,25,Male
+T0271,U046,2025-06-26 04:36:55,129.5,"Lagos, NG",Starbucks,Visa,Yes,No,26,Male
+T0272,U031,2025-07-02 06:32:30,372.36,"Singapore, SG",Uniqlo,Mastercard,No,No,66,Female
+T0273,U002,2025-07-02 10:13:15,72.63,"San Francisco, USA",Apple Store,Visa,No,No,69,Male
+T0274,U034,2025-06-30 02:56:44,39.0,"Tokyo, JP",Tokopedia,Mastercard,No,Yes,45,Female
+T0275,U016,2025-07-03 20:44:18,158.57,"Tokyo, JP",Gucci,Mastercard,Yes,No,41,Male
+T0276,U032,2025-07-04 04:20:35,31.59,"Bangkok, TH",Gojek,Visa,No,Yes,44,Male
+T0277,U046,2025-07-03 15:09:13,57.8,"Singapore, SG",Alfamart,Mastercard,Yes,Yes,26,Male
+T0278,U037,2025-06-26 20:36:40,8.17,"Tokyo, JP",Starbucks,Amex,No,Yes,64,Female
+T0279,U024,2025-07-02 16:00:15,2.57,"Jakarta, ID",Gojek,Amex,No,No,19,Female
+T0280,U036,2025-06-27 07:16:59,328.74,"New York, USA",CryptoExchange,Mastercard,Yes,Yes,32,Male
+T0281,U024,2025-06-27 07:47:15,180.78,"San Francisco, USA",Amazon,Mastercard,No,Yes,19,Female
+T0282,U047,2025-06-27 22:00:02,119.06,"Jakarta, ID",Gucci,Amex,No,Yes,56,Female
+T0283,U023,2025-06-30 13:28:45,52.59,"London, UK",eBay,Amex,Yes,No,55,Female
+T0284,U030,2025-07-04 08:06:01,19.03,"Paris, FR",Starbucks,Visa,Yes,No,42,Male
+T0285,U030,2025-07-01 19:01:39,17.01,"New York, USA",Alfamart,Visa,Yes,Yes,42,Male
+T0286,U003,2025-06-28 03:52:14,28.8,"Lagos, NG",Alfamart,Amex,No,No,46,Female
+T0287,U031,2025-07-02 11:37:12,79.68,"San Francisco, USA",Amazon,Amex,Yes,Yes,66,Female
+T0288,U050,2025-07-05 10:09:05,125.38,"New York, USA",eBay,Mastercard,Yes,Yes,42,Male
+T0289,U026,2025-07-04 14:33:22,107.94,"Paris, FR",CryptoExchange,Mastercard,No,Yes,50,Male
+T0290,U032,2025-07-01 01:30:29,32.84,"Lagos, NG",Gojek,Mastercard,No,No,44,Male
+T0291,U006,2025-06-29 02:44:19,309.81,"Tokyo, JP",Gucci,Visa,No,Yes,25,Male
+T0292,U006,2025-07-03 22:18:07,133.9,"Lagos, NG",Alfamart,Mastercard,No,No,25,Male
+T0293,U011,2025-07-04 08:50:00,80.82,"Paris, FR",eBay,Mastercard,Yes,No,28,Male
+T0294,U023,2025-07-04 16:49:52,94.6,"Bangkok, TH",CryptoExchange,Mastercard,No,No,55,Female
+T0295,U004,2025-07-04 12:26:06,54.4,"Jakarta, ID",CryptoExchange,Mastercard,No,No,32,Male
+T0296,U011,2025-07-05 16:58:40,28.47,"New York, USA",Starbucks,Amex,No,Yes,28,Male
+T0297,U009,2025-07-04 14:08:16,44.0,"Jakarta, ID",Apple Store,Amex,No,Yes,36,Female
+T0298,U037,2025-07-01 21:42:34,141.82,"New York, USA",Gucci,Visa,No,No,64,Female
+T0299,U024,2025-07-03 01:15:24,1.45,"Paris, FR",Tokopedia,Amex,Yes,Yes,19,Female
+T0300,U021,2025-06-27 23:50:39,12.34,"San Francisco, USA",Apple Store,Visa,Yes,Yes,61,Male
+T0301,U034,2025-06-27 00:00:48,4.71,"Tokyo, JP",Gojek,Visa,No,Yes,45,Female
+T0302,U029,2025-07-02 02:33:20,4.16,"Berlin, DE",Gucci,Mastercard,No,No,61,Male
+T0303,U013,2025-06-29 16:22:23,193.42,"Jakarta, ID",Starbucks,Visa,No,No,41,Male
+T0304,U029,2025-07-01 03:15:56,121.62,"Jakarta, ID",eBay,Amex,No,Yes,61,Male
+T0305,U035,2025-06-26 05:20:58,64.28,"San Francisco, USA",Alfamart,Visa,No,No,33,Female
+T0306,U041,2025-07-02 02:36:44,10.3,"Singapore, SG",eBay,Amex,No,No,20,Female
+T0307,U009,2025-06-26 15:55:06,67.65,"Berlin, DE",Uniqlo,Visa,No,Yes,36,Female
+T0308,U030,2025-07-03 07:39:25,64.15,"London, UK",Starbucks,Amex,No,Yes,42,Male
+T0309,U026,2025-06-28 07:28:27,19.02,"Paris, FR",Gojek,Mastercard,No,No,50,Male
+T0310,U005,2025-06-28 05:56:49,56.89,"Singapore, SG",eBay,Amex,Yes,Yes,60,Male
+T0311,U034,2025-07-03 10:38:59,50.83,"Lagos, NG",Starbucks,Amex,No,Yes,45,Female
+T0312,U009,2025-07-01 00:43:34,95.67,"Tokyo, JP",Gojek,Visa,No,Yes,36,Female
+T0313,U020,2025-06-28 04:15:02,100.81,"Singapore, SG",Starbucks,Mastercard,No,Yes,41,Female
+T0314,U034,2025-07-01 12:40:07,4.64,"San Francisco, USA",Tokopedia,Mastercard,Yes,No,45,Female
+T0315,U018,2025-06-29 03:12:14,46.94,"Singapore, SG",Alfamart,Amex,No,Yes,39,Male
+T0316,U011,2025-06-30 00:46:06,98.31,"Bangkok, TH",Gucci,Visa,Yes,No,28,Male
+T0317,U039,2025-07-04 05:58:07,69.94,"Lagos, NG",Gucci,Visa,No,Yes,61,Female
+T0318,U003,2025-06-29 12:01:06,194.13,"Bangkok, TH",Alfamart,Amex,No,Yes,46,Female
+T0319,U040,2025-06-28 02:56:32,107.5,"New York, USA",Uniqlo,Amex,No,No,69,Male
+T0320,U020,2025-07-04 17:58:51,17.79,"Paris, FR",Apple Store,Amex,No,Yes,41,Female
+T0321,U045,2025-06-25 23:14:11,7.32,"New York, USA",Starbucks,Mastercard,No,Yes,38,Male
+T0322,U022,2025-06-29 22:32:29,102.84,"Bangkok, TH",Starbucks,Mastercard,No,Yes,47,Male
+T0323,U023,2025-07-01 20:45:56,2.69,"Tokyo, JP",Starbucks,Mastercard,No,Yes,55,Female
+T0324,U016,2025-06-30 03:24:50,88.13,"Paris, FR",Tokopedia,Mastercard,No,Yes,41,Male
+T0325,U004,2025-06-27 05:00:02,281.73,"San Francisco, USA",CryptoExchange,Amex,No,No,32,Male
+T0326,U011,2025-06-25 20:52:09,85.68,"Lagos, NG",Gucci,Amex,No,No,28,Male
+T0327,U032,2025-06-27 20:45:22,49.13,"London, UK",Uniqlo,Mastercard,No,Yes,44,Male
+T0328,U006,2025-06-29 09:16:31,103.08,"Tokyo, JP",Gojek,Mastercard,No,Yes,25,Male
+T0329,U023,2025-07-04 03:26:27,61.3,"New York, USA",Amazon,Mastercard,No,No,55,Female
+T0330,U042,2025-07-05 11:34:10,78.88,"Paris, FR",Alfamart,Amex,Yes,Yes,54,Female
+T0331,U009,2025-07-03 16:13:19,283.81,"San Francisco, USA",eBay,Mastercard,No,Yes,36,Female
+T0332,U037,2025-06-28 01:30:28,48.79,"London, UK",Apple Store,Mastercard,No,Yes,64,Female
+T0333,U033,2025-07-05 04:54:06,324.91,"Paris, FR",Gojek,Mastercard,No,No,59,Female
+T0334,U040,2025-07-05 08:46:53,235.76,"Jakarta, ID",Starbucks,Visa,No,No,69,Male
+T0335,U022,2025-06-29 18:26:02,21.79,"London, UK",eBay,Visa,Yes,Yes,47,Male
+T0336,U033,2025-06-30 09:48:44,7.19,"New York, USA",Amazon,Visa,Yes,Yes,59,Female
+T0337,U031,2025-07-05 09:24:31,10.62,"London, UK",Uniqlo,Visa,No,Yes,66,Female
+T0338,U021,2025-06-27 18:14:18,1.84,"Bangkok, TH",eBay,Visa,No,No,61,Male
+T0339,U020,2025-06-28 08:17:29,9.92,"Bangkok, TH",eBay,Amex,No,Yes,41,Female
+T0340,U046,2025-06-27 08:23:43,114.89,"Bangkok, TH",Alfamart,Mastercard,No,Yes,26,Male
+T0341,U044,2025-06-26 22:15:52,7.38,"Jakarta, ID",CryptoExchange,Amex,No,No,24,Male
+T0342,U045,2025-06-30 23:37:20,38.42,"New York, USA",Gucci,Mastercard,No,No,38,Male
+T0343,U050,2025-07-01 16:09:23,186.35,"Bangkok, TH",Gucci,Visa,No,Yes,42,Male
+T0344,U011,2025-06-29 14:20:54,2.35,"London, UK",Gucci,Mastercard,Yes,No,28,Male
+T0345,U003,2025-07-03 04:24:40,168.45,"Bangkok, TH",Tokopedia,Visa,Yes,Yes,46,Female
+T0346,U010,2025-07-01 00:26:52,33.11,"Tokyo, JP",Apple Store,Mastercard,No,No,40,Male
+T0347,U031,2025-06-28 19:43:12,12.58,"New York, USA",Starbucks,Amex,No,Yes,66,Female
+T0348,U043,2025-07-01 07:28:07,119.32,"Paris, FR",Gojek,Mastercard,No,Yes,68,Male
+T0349,U035,2025-07-04 14:45:15,99.14,"Lagos, NG",Gojek,Mastercard,No,No,33,Female
+T0350,U044,2025-06-27 19:59:19,209.94,"San Francisco, USA",Gucci,Mastercard,Yes,Yes,24,Male
+T0351,U036,2025-07-02 06:53:29,132.83,"San Francisco, USA",Apple Store,Mastercard,No,No,32,Male
+T0352,U045,2025-07-04 20:21:01,162.7,"Paris, FR",eBay,Mastercard,No,No,38,Male
+T0353,U047,2025-06-27 11:42:01,33.13,"San Francisco, USA",Alfamart,Visa,No,Yes,56,Female
+T0354,U026,2025-07-04 13:19:39,19.53,"Lagos, NG",Starbucks,Mastercard,Yes,No,50,Male
+T0355,U006,2025-07-05 13:00:28,138.88,"Lagos, NG",Uniqlo,Amex,No,Yes,25,Male
+T0356,U013,2025-07-03 11:40:17,164.42,"London, UK",Alfamart,Amex,No,Yes,41,Male
+T0357,U040,2025-06-27 00:58:00,465.7,"Bangkok, TH",Apple Store,Visa,Yes,No,69,Male
+T0358,U015,2025-07-02 17:27:23,53.21,"Berlin, DE",Amazon,Visa,No,No,57,Male
+T0359,U007,2025-06-28 06:55:53,46.52,"Singapore, SG",Amazon,Amex,No,Yes,38,Male
+T0360,U042,2025-07-01 20:00:47,149.8,"Paris, FR",Uniqlo,Amex,Yes,No,54,Female
+T0361,U021,2025-06-28 18:34:23,41.67,"San Francisco, USA",Amazon,Visa,No,Yes,61,Male
+T0362,U048,2025-07-04 06:15:51,267.01,"New York, USA",Starbucks,Mastercard,No,Yes,35,Male
+T0363,U003,2025-07-03 14:30:07,195.48,"Tokyo, JP",Uniqlo,Visa,No,No,46,Female
+T0364,U019,2025-07-01 20:11:58,56.04,"New York, USA",Amazon,Mastercard,No,Yes,19,Female
+T0365,U022,2025-07-04 11:55:37,138.98,"San Francisco, USA",Uniqlo,Amex,No,Yes,47,Male
+T0366,U009,2025-07-04 02:03:05,140.46,"London, UK",Uniqlo,Mastercard,Yes,Yes,36,Female
+T0367,U011,2025-07-01 13:10:04,10.88,"Paris, FR",Alfamart,Amex,Yes,No,28,Male
+T0368,U019,2025-06-28 02:03:06,232.84,"Bangkok, TH",Apple Store,Visa,No,No,19,Female
+T0369,U026,2025-07-04 15:31:54,70.37,"Tokyo, JP",Gojek,Mastercard,Yes,No,50,Male
+T0370,U012,2025-06-27 22:19:22,175.13,"Singapore, SG",Uniqlo,Mastercard,No,Yes,28,Male
+T0371,U025,2025-07-04 10:11:27,38.57,"Berlin, DE",Uniqlo,Mastercard,No,Yes,38,Female
+T0372,U047,2025-07-05 07:49:02,225.88,"Bangkok, TH",Amazon,Mastercard,No,No,56,Female
+T0373,U004,2025-06-26 02:49:46,49.3,"Jakarta, ID",Uniqlo,Mastercard,Yes,No,32,Male
+T0374,U046,2025-07-01 05:30:14,1.09,"San Francisco, USA",Tokopedia,Amex,No,Yes,26,Male
+T0375,U040,2025-06-26 13:04:22,235.79,"Berlin, DE",Apple Store,Visa,No,Yes,69,Male
+T0376,U039,2025-06-30 14:43:41,9.57,"Lagos, NG",CryptoExchange,Amex,No,Yes,61,Female
+T0377,U035,2025-06-27 22:09:01,38.47,"Berlin, DE",Apple Store,Amex,No,No,33,Female
+T0378,U006,2025-06-30 13:14:00,299.7,"London, UK",Uniqlo,Amex,No,Yes,25,Male
+T0379,U037,2025-06-29 23:42:08,300.79,"Jakarta, ID",Amazon,Amex,No,Yes,64,Female
+T0380,U035,2025-06-26 13:21:55,85.2,"Singapore, SG",Starbucks,Mastercard,No,Yes,33,Female
+T0381,U044,2025-07-05 05:51:42,99.92,"Berlin, DE",Gucci,Mastercard,Yes,Yes,24,Male
+T0382,U004,2025-06-26 03:32:35,59.5,"Paris, FR",Starbucks,Amex,No,Yes,32,Male
+T0383,U036,2025-06-27 10:00:30,34.7,"Paris, FR",Alfamart,Amex,Yes,Yes,32,Male
+T0384,U001,2025-06-26 00:06:56,39.85,"Berlin, DE",Gucci,Visa,Yes,Yes,56,Male
+T0385,U005,2025-07-03 20:24:15,111.63,"London, UK",Amazon,Visa,No,Yes,60,Male
+T0386,U019,2025-06-26 15:28:57,139.58,"Tokyo, JP",Starbucks,Visa,No,No,19,Female
+T0387,U042,2025-06-29 04:56:00,156.82,"Tokyo, JP",eBay,Mastercard,No,No,54,Female
+T0388,U025,2025-06-28 09:37:00,155.88,"Tokyo, JP",Tokopedia,Amex,No,No,38,Female
+T0389,U009,2025-07-01 23:26:35,9.56,"Lagos, NG",Tokopedia,Visa,No,Yes,36,Female
+T0390,U009,2025-07-03 14:01:05,68.2,"Berlin, DE",Amazon,Visa,No,Yes,36,Female
+T0391,U047,2025-06-27 18:09:17,5.93,"London, UK",CryptoExchange,Amex,No,Yes,56,Female
+T0392,U030,2025-06-26 23:20:23,79.75,"Lagos, NG",Starbucks,Mastercard,Yes,No,42,Male
+T0393,U049,2025-06-26 13:56:25,58.26,"Jakarta, ID",Amazon,Amex,No,No,21,Male
+T0394,U002,2025-06-28 03:10:12,218.66,"Berlin, DE",Apple Store,Visa,Yes,Yes,69,Male
+T0395,U039,2025-07-03 11:45:51,43.22,"New York, USA",Apple Store,Amex,Yes,Yes,61,Female
+T0396,U035,2025-06-29 10:54:17,12.45,"Berlin, DE",Amazon,Visa,No,Yes,33,Female
+T0397,U047,2025-06-29 04:01:38,15.43,"Bangkok, TH",eBay,Amex,No,No,56,Female
+T0398,U021,2025-06-29 23:52:15,143.34,"Berlin, DE",Alfamart,Visa,No,Yes,61,Male
+T0399,U027,2025-06-26 12:49:07,96.29,"San Francisco, USA",Alfamart,Visa,No,Yes,29,Male
+T0400,U048,2025-06-28 07:39:56,10.66,"Singapore, SG",CryptoExchange,Amex,No,No,35,Male
+T0401,U042,2025-07-02 03:38:01,8.79,"Tokyo, JP",Gojek,Mastercard,No,Yes,54,Female
+T0402,U020,2025-07-02 18:06:42,120.72,"Tokyo, JP",Starbucks,Amex,No,No,41,Female
+T0403,U020,2025-06-30 22:11:26,7.55,"Singapore, SG",Uniqlo,Visa,No,No,41,Female
+T0404,U036,2025-07-02 10:43:07,172.52,"London, UK",Starbucks,Mastercard,No,Yes,32,Male
+T0405,U042,2025-07-01 11:44:02,122.5,"Jakarta, ID",Uniqlo,Mastercard,Yes,No,54,Female
+T0406,U013,2025-07-03 16:00:25,8.48,"New York, USA",Alfamart,Mastercard,No,No,41,Male
+T0407,U005,2025-06-28 06:49:02,8.87,"Berlin, DE",Gucci,Amex,No,Yes,60,Male
+T0408,U014,2025-07-01 18:47:53,431.55,"Lagos, NG",Alfamart,Visa,No,Yes,53,Male
+T0409,U048,2025-06-30 00:51:38,46.88,"Jakarta, ID",Uniqlo,Visa,No,No,35,Male
+T0410,U026,2025-06-30 19:41:33,46.31,"Berlin, DE",Gojek,Mastercard,No,Yes,50,Male
+T0411,U035,2025-07-01 02:45:55,167.56,"Lagos, NG",Alfamart,Mastercard,No,No,33,Female
+T0412,U030,2025-07-02 23:27:06,294.22,"Jakarta, ID",Uniqlo,Mastercard,No,Yes,42,Male
+T0413,U027,2025-06-28 07:57:45,426.88,"New York, USA",Gucci,Visa,No,Yes,29,Male
+T0414,U036,2025-06-26 11:07:01,139.99,"Bangkok, TH",Gucci,Amex,No,Yes,32,Male
+T0415,U022,2025-07-03 18:01:47,47.2,"Berlin, DE",CryptoExchange,Amex,No,Yes,47,Male
+T0416,U042,2025-06-26 00:43:40,8.72,"Lagos, NG",Alfamart,Mastercard,No,No,54,Female
+T0417,U032,2025-07-05 10:06:15,150.12,"Paris, FR",Starbucks,Amex,No,Yes,44,Male
+T0418,U047,2025-07-04 06:24:06,81.74,"London, UK",Uniqlo,Visa,No,Yes,56,Female
+T0419,U042,2025-06-27 10:08:56,55.2,"New York, USA",Gojek,Visa,No,Yes,54,Female
+T0420,U043,2025-07-04 20:22:57,236.82,"New York, USA",Amazon,Mastercard,Yes,No,68,Male
+T0421,U005,2025-06-28 20:11:29,11.79,"Singapore, SG",Amazon,Visa,No,Yes,60,Male
+T0422,U040,2025-06-26 04:37:07,67.85,"Bangkok, TH",Uniqlo,Amex,No,Yes,69,Male
+T0423,U036,2025-07-05 13:53:13,1.14,"Tokyo, JP",Amazon,Visa,No,Yes,32,Male
+T0424,U019,2025-06-30 08:18:38,63.24,"New York, USA",Gojek,Amex,No,No,19,Female
+T0425,U012,2025-07-02 10:23:53,5.8,"Jakarta, ID",Tokopedia,Amex,Yes,Yes,28,Male
+T0426,U034,2025-07-02 17:13:47,12.65,"San Francisco, USA",eBay,Mastercard,No,Yes,45,Female
+T0427,U026,2025-06-27 12:41:48,12.5,"Paris, FR",Gucci,Visa,No,Yes,50,Male
+T0428,U044,2025-06-29 20:42:02,104.76,"Jakarta, ID",Amazon,Visa,No,Yes,24,Male
+T0429,U031,2025-06-26 11:42:17,137.06,"New York, USA",Amazon,Amex,Yes,Yes,66,Female
+T0430,U028,2025-06-30 07:16:15,87.56,"Lagos, NG",Gucci,Visa,No,No,39,Female
+T0431,U015,2025-07-03 03:56:48,327.47,"Berlin, DE",Gucci,Mastercard,No,No,57,Male
+T0432,U044,2025-06-30 12:02:53,46.98,"San Francisco, USA",Gojek,Amex,No,Yes,24,Male
+T0433,U021,2025-07-01 00:02:35,33.65,"New York, USA",Apple Store,Amex,Yes,No,61,Male
+T0434,U026,2025-06-27 18:16:16,202.95,"Jakarta, ID",Alfamart,Visa,No,Yes,50,Male
+T0435,U025,2025-07-05 04:13:12,25.31,"London, UK",eBay,Mastercard,No,Yes,38,Female
+T0436,U045,2025-07-02 12:46:16,330.29,"Jakarta, ID",Gojek,Amex,No,Yes,38,Male
+T0437,U028,2025-06-30 13:18:56,1.22,"Berlin, DE",Tokopedia,Mastercard,No,No,39,Female
+T0438,U039,2025-06-29 06:04:42,350.25,"Tokyo, JP",eBay,Visa,No,No,61,Female
+T0439,U029,2025-06-28 20:04:18,4.41,"Paris, FR",Apple Store,Mastercard,No,Yes,61,Male
+T0440,U012,2025-06-26 16:10:19,221.77,"Bangkok, TH",CryptoExchange,Visa,No,Yes,28,Male
+T0441,U016,2025-06-26 07:36:45,75.01,"Jakarta, ID",Tokopedia,Mastercard,Yes,No,41,Male
+T0442,U041,2025-06-28 11:01:10,495.68,"Singapore, SG",CryptoExchange,Mastercard,No,Yes,20,Female
+T0443,U020,2025-07-03 16:56:20,7.67,"Paris, FR",eBay,Mastercard,Yes,Yes,41,Female
+T0444,U028,2025-06-26 23:00:52,80.71,"Paris, FR",Gojek,Amex,No,Yes,39,Female
+T0445,U006,2025-07-04 21:35:16,348.36,"Lagos, NG",Gojek,Visa,No,No,25,Male
+T0446,U025,2025-07-03 13:03:02,74.04,"New York, USA",Alfamart,Mastercard,No,Yes,38,Female
+T0447,U036,2025-07-03 12:51:03,99.26,"Berlin, DE",Gucci,Amex,Yes,Yes,32,Male
+T0448,U009,2025-07-05 05:29:30,118.99,"San Francisco, USA",Alfamart,Mastercard,No,Yes,36,Female
+T0449,U028,2025-06-27 02:47:39,60.61,"San Francisco, USA",CryptoExchange,Mastercard,No,Yes,39,Female
+T0450,U017,2025-06-29 06:18:29,98.77,"Berlin, DE",Uniqlo,Amex,No,Yes,20,Female
+T0451,U009,2025-06-30 14:47:36,87.78,"San Francisco, USA",Amazon,Mastercard,No,No,36,Female
+T0452,U022,2025-06-25 22:08:30,231.42,"Paris, FR",eBay,Mastercard,No,No,47,Male
+T0453,U039,2025-06-26 11:24:04,4.65,"Singapore, SG",Alfamart,Mastercard,No,No,61,Female
+T0454,U031,2025-07-05 16:39:07,32.98,"Lagos, NG",Starbucks,Mastercard,No,Yes,66,Female
+T0455,U045,2025-07-03 19:56:32,300.4,"Paris, FR",Gucci,Visa,No,Yes,38,Male
+T0456,U026,2025-06-26 08:37:37,220.97,"Lagos, NG",Tokopedia,Amex,Yes,No,50,Male
+T0457,U012,2025-07-05 09:58:23,60.82,"London, UK",Amazon,Amex,No,No,28,Male
+T0458,U029,2025-06-28 16:47:36,96.79,"San Francisco, USA",Tokopedia,Mastercard,No,Yes,61,Male
+T0459,U020,2025-06-26 14:10:14,32.49,"Berlin, DE",Alfamart,Amex,Yes,Yes,41,Female
+T0460,U025,2025-06-26 19:45:58,20.84,"Jakarta, ID",Uniqlo,Amex,No,Yes,38,Female
+T0461,U033,2025-07-02 18:06:44,62.31,"Tokyo, JP",Gojek,Visa,No,Yes,59,Female
+T0462,U035,2025-07-01 15:07:34,43.6,"Bangkok, TH",Tokopedia,Visa,No,No,33,Female
+T0463,U023,2025-07-04 12:53:22,87.62,"Singapore, SG",Gucci,Visa,No,No,55,Female
+T0464,U042,2025-06-29 08:29:27,8.09,"Tokyo, JP",eBay,Mastercard,Yes,Yes,54,Female
+T0465,U015,2025-07-02 19:28:48,366.5,"London, UK",Gojek,Amex,No,Yes,57,Male
+T0466,U029,2025-06-26 14:21:58,428.39,"Lagos, NG",CryptoExchange,Mastercard,No,Yes,61,Male
+T0467,U033,2025-06-26 14:43:49,119.79,"Singapore, SG",eBay,Visa,No,Yes,59,Female
+T0468,U006,2025-07-02 04:01:26,76.81,"Jakarta, ID",Starbucks,Mastercard,No,Yes,25,Male
+T0469,U014,2025-06-26 12:37:44,37.04,"London, UK",Uniqlo,Mastercard,No,Yes,53,Male
+T0470,U045,2025-06-29 17:18:45,168.09,"Paris, FR",eBay,Visa,No,No,38,Male
+T0471,U008,2025-07-01 00:54:14,115.43,"New York, USA",eBay,Amex,Yes,No,56,Male
+T0472,U048,2025-07-01 05:01:48,17.75,"Berlin, DE",Gojek,Visa,No,Yes,35,Male
+T0473,U028,2025-06-28 22:05:39,241.83,"Paris, FR",Apple Store,Mastercard,No,Yes,39,Female
+T0474,U043,2025-06-27 19:04:48,172.9,"Tokyo, JP",CryptoExchange,Visa,No,No,68,Male
+T0475,U029,2025-07-03 03:09:17,299.17,"Bangkok, TH",CryptoExchange,Mastercard,Yes,Yes,61,Male
+T0476,U018,2025-06-26 09:17:53,129.36,"Jakarta, ID",Gucci,Visa,No,Yes,39,Male
+T0477,U024,2025-06-28 11:20:42,95.04,"Lagos, NG",Apple Store,Mastercard,Yes,No,19,Female
+T0478,U032,2025-06-30 16:24:59,54.17,"London, UK",eBay,Amex,No,Yes,44,Male
+T0479,U008,2025-06-25 22:19:57,269.9,"Lagos, NG",eBay,Mastercard,No,No,56,Male
+T0480,U046,2025-06-26 15:36:56,201.04,"San Francisco, USA",Gucci,Amex,Yes,Yes,26,Male
+T0481,U008,2025-06-26 11:43:28,4.63,"Berlin, DE",Alfamart,Visa,Yes,No,56,Male
+T0482,U033,2025-07-01 03:09:32,2.67,"Tokyo, JP",CryptoExchange,Amex,Yes,Yes,59,Female
+T0483,U012,2025-07-01 02:05:48,47.23,"Paris, FR",Gojek,Amex,No,No,28,Male
+T0484,U012,2025-07-03 15:28:35,166.36,"London, UK",Starbucks,Mastercard,No,Yes,28,Male
+T0485,U029,2025-07-01 18:58:37,436.43,"Bangkok, TH",Amazon,Mastercard,No,Yes,61,Male
+T0486,U013,2025-06-26 23:33:01,16.3,"Tokyo, JP",Gojek,Amex,No,Yes,41,Male
+T0487,U032,2025-06-27 11:54:30,90.17,"Tokyo, JP",Uniqlo,Mastercard,Yes,Yes,44,Male
+T0488,U049,2025-06-27 21:50:07,47.95,"Berlin, DE",Alfamart,Visa,No,Yes,21,Male
+T0489,U011,2025-06-26 10:22:14,350.37,"Paris, FR",Gucci,Amex,No,Yes,28,Male
+T0490,U033,2025-06-30 10:02:09,184.59,"Jakarta, ID",Gucci,Visa,No,Yes,59,Female
+T0491,U024,2025-07-03 00:19:31,182.22,"London, UK",Amazon,Amex,No,Yes,19,Female
+T0492,U028,2025-07-03 15:33:28,63.24,"Jakarta, ID",Apple Store,Mastercard,No,Yes,39,Female
+T0493,U017,2025-07-04 11:23:05,53.58,"Lagos, NG",Tokopedia,Mastercard,No,Yes,20,Female
+T0494,U016,2025-07-01 15:23:34,31.94,"Berlin, DE",Gucci,Amex,No,No,41,Male
+T0495,U041,2025-06-25 22:28:33,5.8,"Tokyo, JP",Starbucks,Amex,Yes,Yes,20,Female
+T0496,U014,2025-07-01 00:39:25,200.04,"New York, USA",Gucci,Mastercard,No,Yes,53,Male
+T0497,U011,2025-06-28 21:13:25,167.61,"Lagos, NG",Alfamart,Mastercard,No,No,28,Male
+T0498,U033,2025-07-02 13:25:12,817.24,"Jakarta, ID",Starbucks,Mastercard,No,No,59,Female
+T0499,U042,2025-07-01 05:06:20,569.49,"Singapore, SG",Starbucks,Visa,Yes,Yes,54,Female
+T0500,U016,2025-06-28 03:23:23,81.07,"Tokyo, JP",Uniqlo,Visa,No,Yes,41,Male
+T0501,U027,2025-06-29 01:41:11,146.53,"Tokyo, JP",Uniqlo,Visa,No,No,29,Male
+T0502,U006,2025-07-04 08:56:54,289.62,"Tokyo, JP",Gojek,Amex,No,No,25,Male
+T0503,U024,2025-06-25 17:24:15,189.48,"Paris, FR",Uniqlo,Mastercard,No,No,19,Female
+T0504,U047,2025-06-28 11:25:29,28.42,"Jakarta, ID",Uniqlo,Amex,No,Yes,56,Female
+T0505,U005,2025-07-05 08:58:09,59.88,"London, UK",CryptoExchange,Visa,No,No,60,Male
+T0506,U032,2025-06-25 17:22:17,13.83,"San Francisco, USA",eBay,Mastercard,No,Yes,44,Male
+T0507,U037,2025-06-30 15:56:57,308.02,"Paris, FR",eBay,Amex,No,Yes,64,Female
+T0508,U041,2025-07-05 11:19:25,93.18,"Paris, FR",Amazon,Visa,No,Yes,20,Female
+T0509,U030,2025-06-25 19:45:33,25.96,"New York, USA",CryptoExchange,Visa,No,No,42,Male
+T0510,U042,2025-07-02 14:35:36,111.38,"San Francisco, USA",Starbucks,Mastercard,Yes,Yes,54,Female
+T0511,U006,2025-06-28 11:12:20,96.27,"Lagos, NG",Starbucks,Visa,No,Yes,25,Male
+T0512,U045,2025-06-28 05:08:47,44.34,"Berlin, DE",CryptoExchange,Amex,Yes,Yes,38,Male
+T0513,U014,2025-06-28 13:19:28,12.05,"Paris, FR",Tokopedia,Visa,No,Yes,53,Male
+T0514,U029,2025-07-04 18:43:22,111.34,"New York, USA",Amazon,Amex,No,Yes,61,Male
+T0515,U028,2025-06-27 00:36:52,73.46,"Singapore, SG",Uniqlo,Visa,No,Yes,39,Female
+T0516,U007,2025-07-04 12:47:31,147.98,"Jakarta, ID",eBay,Mastercard,No,Yes,38,Male
+T0517,U050,2025-07-01 19:28:12,73.43,"Singapore, SG",Starbucks,Visa,No,Yes,42,Male
+T0518,U042,2025-07-03 07:49:14,191.18,"Singapore, SG",Uniqlo,Mastercard,No,No,54,Female
+T0519,U010,2025-07-03 06:28:03,80.28,"Tokyo, JP",Gucci,Amex,No,Yes,40,Male
+T0520,U007,2025-07-02 04:07:10,82.31,"Singapore, SG",Tokopedia,Amex,No,Yes,38,Male
+T0521,U028,2025-06-28 23:52:55,209.28,"Lagos, NG",Starbucks,Visa,No,Yes,39,Female
+T0522,U036,2025-07-05 08:27:34,51.66,"Bangkok, TH",Gucci,Amex,No,No,32,Male
+T0523,U045,2025-07-02 20:53:10,14.39,"New York, USA",Alfamart,Visa,No,Yes,38,Male
+T0524,U048,2025-07-03 07:59:57,2.92,"Tokyo, JP",Alfamart,Amex,Yes,No,35,Male
+T0525,U016,2025-06-30 01:40:23,140.71,"Paris, FR",CryptoExchange,Visa,No,No,41,Male
+T0526,U005,2025-06-30 23:08:27,96.84,"London, UK",Amazon,Mastercard,No,Yes,60,Male
+T0527,U037,2025-07-01 09:40:34,121.77,"Tokyo, JP",eBay,Amex,No,No,64,Female
+T0528,U050,2025-07-03 10:28:56,23.95,"Jakarta, ID",Amazon,Amex,Yes,Yes,42,Male
+T0529,U003,2025-07-05 04:19:19,14.66,"New York, USA",CryptoExchange,Amex,No,No,46,Female
+T0530,U050,2025-07-03 06:11:59,1.47,"Tokyo, JP",CryptoExchange,Amex,No,No,42,Male
+T0531,U035,2025-07-02 06:21:21,43.17,"Bangkok, TH",Starbucks,Mastercard,Yes,Yes,33,Female
+T0532,U014,2025-06-28 22:30:50,89.14,"Singapore, SG",Gojek,Mastercard,No,No,53,Male
+T0533,U042,2025-07-01 11:21:23,49.8,"Jakarta, ID",Alfamart,Amex,No,No,54,Female
+T0534,U016,2025-06-28 00:59:05,57.53,"New York, USA",Apple Store,Visa,No,Yes,41,Male
+T0535,U040,2025-06-25 19:22:41,234.51,"Bangkok, TH",Amazon,Mastercard,No,No,69,Male
+T0536,U012,2025-07-04 16:04:10,42.81,"Jakarta, ID",Amazon,Amex,Yes,Yes,28,Male
+T0537,U032,2025-06-26 07:13:38,72.15,"Lagos, NG",Gojek,Amex,No,No,44,Male
+T0538,U011,2025-07-04 07:25:16,153.09,"Lagos, NG",Starbucks,Amex,No,Yes,28,Male
+T0539,U008,2025-07-01 03:26:46,50.51,"New York, USA",eBay,Mastercard,No,Yes,56,Male
+T0540,U046,2025-07-04 11:44:38,97.31,"Bangkok, TH",Tokopedia,Mastercard,No,Yes,26,Male
+T0541,U032,2025-07-01 13:49:23,198.31,"Bangkok, TH",Starbucks,Mastercard,Yes,No,44,Male
+T0542,U037,2025-07-01 10:32:58,298.62,"Jakarta, ID",Apple Store,Amex,No,Yes,64,Female
+T0543,U001,2025-06-26 04:39:03,15.91,"Berlin, DE",Amazon,Mastercard,No,No,56,Male
+T0544,U012,2025-06-26 10:57:47,261.17,"New York, USA",Gojek,Amex,No,Yes,28,Male
+T0545,U021,2025-06-30 04:19:57,67.75,"Berlin, DE",CryptoExchange,Amex,No,No,61,Male
+T0546,U037,2025-07-05 09:29:04,29.87,"Lagos, NG",Tokopedia,Amex,No,Yes,64,Female
+T0547,U015,2025-06-26 21:59:50,61.46,"London, UK",Amazon,Mastercard,Yes,Yes,57,Male
+T0548,U019,2025-07-02 13:36:09,391.37,"San Francisco, USA",eBay,Visa,No,Yes,19,Female
+T0549,U013,2025-06-25 17:42:22,67.85,"San Francisco, USA",Gucci,Mastercard,No,Yes,41,Male
+T0550,U024,2025-06-30 03:08:05,39.86,"Bangkok, TH",Uniqlo,Visa,No,Yes,19,Female
+T0551,U016,2025-07-03 04:41:59,100.35,"Singapore, SG",Amazon,Mastercard,Yes,Yes,41,Male
+T0552,U041,2025-06-29 10:25:34,27.46,"New York, USA",eBay,Visa,No,Yes,20,Female
+T0553,U048,2025-06-26 15:35:11,7.89,"San Francisco, USA",Tokopedia,Visa,No,Yes,35,Male
+T0554,U032,2025-06-26 14:00:21,13.8,"New York, USA",Starbucks,Amex,No,Yes,44,Male
+T0555,U015,2025-07-01 08:48:43,13.7,"London, UK",CryptoExchange,Amex,No,Yes,57,Male
+T0556,U048,2025-06-27 17:54:27,16.48,"Jakarta, ID",Gucci,Visa,No,No,35,Male
+T0557,U026,2025-07-01 15:25:53,14.95,"Jakarta, ID",Gucci,Amex,Yes,No,50,Male
+T0558,U009,2025-07-02 08:17:32,102.41,"Berlin, DE",Alfamart,Mastercard,No,No,36,Female
+T0559,U026,2025-07-05 08:01:58,20.07,"Lagos, NG",eBay,Mastercard,No,Yes,50,Male
+T0560,U013,2025-06-26 02:01:29,42.41,"Singapore, SG",Gucci,Visa,Yes,Yes,41,Male
+T0561,U030,2025-06-26 22:43:13,227.1,"Lagos, NG",CryptoExchange,Visa,No,No,42,Male
+T0562,U014,2025-07-03 20:16:49,64.24,"Paris, FR",Alfamart,Mastercard,No,Yes,53,Male
+T0563,U011,2025-06-26 06:37:34,110.13,"San Francisco, USA",Gucci,Visa,No,No,28,Male
+T0564,U010,2025-06-29 22:34:20,18.91,"Jakarta, ID",Apple Store,Mastercard,No,Yes,40,Male
+T0565,U020,2025-07-05 04:57:10,21.36,"San Francisco, USA",Starbucks,Visa,No,No,41,Female
+T0566,U036,2025-06-27 16:08:50,4.17,"London, UK",Apple Store,Visa,No,No,32,Male
+T0567,U009,2025-06-26 12:32:59,18.5,"Jakarta, ID",Amazon,Visa,No,No,36,Female
+T0568,U009,2025-06-27 08:07:30,32.65,"Berlin, DE",CryptoExchange,Mastercard,No,No,36,Female
+T0569,U006,2025-06-29 06:17:50,19.48,"Bangkok, TH",Gucci,Mastercard,No,Yes,25,Male
+T0570,U005,2025-07-02 06:46:39,9.29,"Berlin, DE",Uniqlo,Visa,Yes,No,60,Male
+T0571,U022,2025-06-29 16:33:35,12.86,"Jakarta, ID",Amazon,Mastercard,Yes,No,47,Male
+T0572,U028,2025-07-02 20:59:09,61.76,"Tokyo, JP",Uniqlo,Visa,No,Yes,39,Female
+T0573,U023,2025-06-27 18:38:30,23.11,"Berlin, DE",Starbucks,Mastercard,No,No,55,Female
+T0574,U003,2025-07-03 03:41:43,45.3,"Bangkok, TH",Gucci,Amex,No,Yes,46,Female
+T0575,U027,2025-06-25 18:32:24,70.0,"London, UK",Uniqlo,Visa,Yes,Yes,29,Male
+T0576,U027,2025-06-29 23:59:08,117.25,"Berlin, DE",Gojek,Visa,No,No,29,Male
+T0577,U002,2025-06-28 13:29:46,4.01,"Tokyo, JP",eBay,Mastercard,No,Yes,69,Male
+T0578,U037,2025-07-03 08:56:06,160.65,"London, UK",eBay,Mastercard,No,Yes,64,Female
+T0579,U039,2025-07-03 17:06:26,98.86,"Berlin, DE",Amazon,Mastercard,Yes,No,61,Female
+T0580,U034,2025-06-28 11:17:34,8.53,"Lagos, NG",Gucci,Visa,No,Yes,45,Female
+T0581,U043,2025-07-03 17:14:16,206.81,"Berlin, DE",Alfamart,Amex,No,No,68,Male
+T0582,U004,2025-07-02 16:01:18,253.67,"Berlin, DE",Gucci,Mastercard,No,No,32,Male
+T0583,U012,2025-07-02 13:15:22,6.3,"Singapore, SG",Apple Store,Amex,No,No,28,Male
+T0584,U023,2025-06-29 15:57:24,32.42,"Bangkok, TH",Amazon,Amex,No,No,55,Female
+T0585,U037,2025-06-27 05:11:55,164.09,"Singapore, SG",Gucci,Visa,No,No,64,Female
+T0586,U032,2025-06-25 20:20:32,137.94,"London, UK",Alfamart,Visa,No,Yes,44,Male
+T0587,U015,2025-07-04 10:35:30,20.4,"Bangkok, TH",Apple Store,Visa,No,Yes,57,Male
+T0588,U040,2025-06-29 04:57:06,23.49,"Berlin, DE",Starbucks,Mastercard,No,No,69,Male
+T0589,U021,2025-06-27 03:07:53,46.28,"New York, USA",Amazon,Visa,No,No,61,Male
+T0590,U050,2025-07-05 14:51:44,66.27,"Jakarta, ID",Gojek,Mastercard,No,Yes,42,Male
+T0591,U043,2025-06-28 12:47:01,96.3,"Tokyo, JP",Gucci,Visa,No,Yes,68,Male
+T0592,U011,2025-06-27 18:02:19,46.03,"Tokyo, JP",Uniqlo,Amex,No,No,28,Male
+T0593,U036,2025-07-05 10:02:02,62.09,"Bangkok, TH",eBay,Visa,No,No,32,Male
+T0594,U025,2025-06-30 17:18:58,137.62,"San Francisco, USA",Alfamart,Visa,Yes,Yes,38,Female
+T0595,U045,2025-06-27 16:42:23,3.74,"Bangkok, TH",CryptoExchange,Amex,Yes,No,38,Male
+T0596,U040,2025-07-04 15:45:11,29.09,"Berlin, DE",Gucci,Visa,No,Yes,69,Male
+T0597,U048,2025-06-29 06:25:50,124.95,"Jakarta, ID",Apple Store,Mastercard,No,Yes,35,Male
+T0598,U006,2025-06-27 19:37:10,225.58,"Lagos, NG",Uniqlo,Visa,No,Yes,25,Male
+T0599,U005,2025-06-29 23:52:34,71.68,"Lagos, NG",Alfamart,Visa,No,Yes,60,Male
+T0600,U029,2025-07-05 05:42:51,75.95,"Tokyo, JP",Starbucks,Mastercard,No,Yes,61,Male
+T0601,U035,2025-06-29 21:44:54,11.34,"Tokyo, JP",Tokopedia,Mastercard,No,Yes,33,Female
+T0602,U049,2025-06-25 18:19:23,59.31,"Berlin, DE",Starbucks,Mastercard,Yes,No,21,Male
+T0603,U019,2025-06-26 19:33:43,76.06,"New York, USA",eBay,Mastercard,No,Yes,19,Female
+T0604,U011,2025-06-27 00:01:08,27.77,"Tokyo, JP",Starbucks,Amex,Yes,No,28,Male
+T0605,U006,2025-07-03 19:33:25,31.37,"Lagos, NG",Gucci,Amex,No,No,25,Male
+T0606,U028,2025-06-29 21:25:12,47.37,"Singapore, SG",Gucci,Mastercard,Yes,Yes,39,Female
+T0607,U014,2025-07-04 06:31:15,2.03,"Berlin, DE",CryptoExchange,Amex,No,No,53,Male
+T0608,U035,2025-07-04 12:49:13,38.87,"San Francisco, USA",Alfamart,Mastercard,No,Yes,33,Female
+T0609,U037,2025-06-26 04:56:41,23.76,"London, UK",Uniqlo,Visa,Yes,Yes,64,Female
+T0610,U006,2025-07-01 00:50:00,39.67,"San Francisco, USA",Gucci,Mastercard,Yes,Yes,25,Male
+T0611,U011,2025-06-26 02:11:24,12.76,"San Francisco, USA",Tokopedia,Mastercard,No,Yes,28,Male
+T0612,U026,2025-07-05 03:37:53,221.21,"Paris, FR",Uniqlo,Amex,No,No,50,Male
+T0613,U025,2025-06-28 21:04:07,90.04,"Singapore, SG",eBay,Mastercard,No,Yes,38,Female
+T0614,U017,2025-06-26 16:39:50,113.66,"Paris, FR",Uniqlo,Mastercard,No,Yes,20,Female
+T0615,U004,2025-07-03 23:07:03,155.67,"Singapore, SG",Tokopedia,Visa,No,No,32,Male
+T0616,U027,2025-06-29 11:27:17,69.0,"Bangkok, TH",Apple Store,Amex,Yes,Yes,29,Male
+T0617,U034,2025-06-26 08:38:27,9.09,"Tokyo, JP",Gojek,Amex,No,Yes,45,Female
+T0618,U016,2025-07-04 15:19:47,77.03,"Paris, FR",Alfamart,Visa,No,No,41,Male
+T0619,U003,2025-07-04 13:31:14,88.39,"London, UK",Gucci,Amex,No,No,46,Female
+T0620,U040,2025-07-01 03:14:35,136.82,"Singapore, SG",Tokopedia,Mastercard,Yes,No,69,Male
+T0621,U014,2025-07-02 15:22:58,56.5,"Berlin, DE",Starbucks,Visa,No,No,53,Male
+T0622,U028,2025-06-27 19:06:23,13.65,"Berlin, DE",Starbucks,Amex,No,No,39,Female
+T0623,U005,2025-06-27 09:14:32,33.38,"Jakarta, ID",CryptoExchange,Amex,No,Yes,60,Male
+T0624,U018,2025-06-30 20:56:41,45.11,"London, UK",Uniqlo,Visa,No,No,39,Male
+T0625,U034,2025-06-27 06:42:59,103.82,"Tokyo, JP",Tokopedia,Mastercard,Yes,Yes,45,Female
+T0626,U038,2025-07-04 23:08:26,84.58,"Jakarta, ID",Tokopedia,Amex,No,No,68,Male
+T0627,U035,2025-07-04 22:29:59,44.02,"Lagos, NG",CryptoExchange,Mastercard,No,Yes,33,Female
+T0628,U039,2025-07-04 08:21:12,430.62,"Paris, FR",Amazon,Visa,No,Yes,61,Female
+T0629,U039,2025-06-28 12:01:48,93.08,"Tokyo, JP",Amazon,Mastercard,No,Yes,61,Female
+T0630,U016,2025-07-05 10:35:22,27.08,"New York, USA",Uniqlo,Mastercard,No,Yes,41,Male
+T0631,U020,2025-06-29 23:21:40,10.73,"San Francisco, USA",Alfamart,Mastercard,No,No,41,Female
+T0632,U015,2025-06-26 12:04:01,16.59,"Singapore, SG",Alfamart,Amex,No,No,57,Male
+T0633,U018,2025-06-29 08:05:48,28.23,"Tokyo, JP",Gucci,Amex,Yes,Yes,39,Male
+T0634,U027,2025-07-01 17:54:24,17.52,"Paris, FR",Gojek,Mastercard,No,Yes,29,Male
+T0635,U011,2025-06-27 10:11:35,20.65,"Jakarta, ID",Alfamart,Amex,No,Yes,28,Male
+T0636,U034,2025-06-30 18:52:15,33.56,"Bangkok, TH",Amazon,Visa,Yes,No,45,Female
+T0637,U004,2025-07-05 07:33:50,19.04,"Berlin, DE",Amazon,Mastercard,Yes,Yes,32,Male
+T0638,U013,2025-06-27 03:43:49,227.08,"San Francisco, USA",eBay,Mastercard,No,No,41,Male
+T0639,U008,2025-06-27 01:54:06,8.36,"New York, USA",Apple Store,Mastercard,No,Yes,56,Male
+T0640,U031,2025-06-28 03:16:40,74.34,"Bangkok, TH",Gojek,Mastercard,No,No,66,Female
+T0641,U017,2025-06-29 19:11:55,52.83,"Jakarta, ID",Alfamart,Visa,No,Yes,20,Female
+T0642,U037,2025-06-27 11:24:38,403.86,"Berlin, DE",Apple Store,Amex,No,Yes,64,Female
+T0643,U042,2025-06-27 20:04:11,11.88,"Tokyo, JP",Gojek,Visa,No,No,54,Female
+T0644,U044,2025-07-05 17:19:49,50.73,"New York, USA",Uniqlo,Visa,No,No,24,Male
+T0645,U001,2025-07-01 17:04:51,348.91,"Berlin, DE",Alfamart,Amex,No,Yes,56,Male
+T0646,U046,2025-07-04 10:33:30,200.62,"San Francisco, USA",CryptoExchange,Mastercard,No,Yes,26,Male
+T0647,U014,2025-07-01 20:43:53,169.87,"Paris, FR",Alfamart,Amex,No,No,53,Male
+T0648,U038,2025-06-28 04:51:29,29.83,"Jakarta, ID",Amazon,Amex,No,No,68,Male
+T0649,U024,2025-06-28 19:26:55,18.74,"London, UK",Gucci,Amex,No,No,19,Female
+T0650,U031,2025-06-27 11:56:46,110.46,"Jakarta, ID",eBay,Mastercard,No,No,66,Female
+T0651,U017,2025-07-03 11:18:10,265.04,"San Francisco, USA",Apple Store,Visa,No,Yes,20,Female
+T0652,U004,2025-06-27 01:29:35,81.37,"Bangkok, TH",CryptoExchange,Amex,No,Yes,32,Male
+T0653,U002,2025-06-26 04:51:08,84.77,"Paris, FR",Alfamart,Mastercard,No,Yes,69,Male
+T0654,U048,2025-07-01 23:28:56,32.85,"New York, USA",Gucci,Amex,No,No,35,Male
+T0655,U022,2025-06-25 21:31:58,146.75,"Berlin, DE",Gojek,Amex,No,No,47,Male
+T0656,U043,2025-07-03 22:41:27,20.71,"Lagos, NG",Gojek,Mastercard,No,No,68,Male
+T0657,U036,2025-07-01 06:06:01,39.11,"Singapore, SG",Alfamart,Visa,No,No,32,Male
+T0658,U047,2025-07-03 15:35:42,55.41,"London, UK",Starbucks,Amex,No,No,56,Female
+T0659,U015,2025-06-29 15:38:40,70.85,"Lagos, NG",Apple Store,Amex,No,Yes,57,Male
+T0660,U022,2025-06-29 18:31:25,27.76,"Lagos, NG",Alfamart,Amex,No,No,47,Male
+T0661,U031,2025-07-02 01:12:46,12.2,"New York, USA",Gucci,Amex,No,Yes,66,Female
+T0662,U013,2025-07-05 12:04:51,94.32,"London, UK",Tokopedia,Amex,No,Yes,41,Male
+T0663,U004,2025-07-01 06:24:38,34.06,"Singapore, SG",Starbucks,Visa,No,No,32,Male
+T0664,U030,2025-07-02 10:11:53,87.05,"Singapore, SG",eBay,Amex,Yes,Yes,42,Male
+T0665,U022,2025-06-28 01:43:35,16.77,"Singapore, SG",eBay,Amex,Yes,Yes,47,Male
+T0666,U014,2025-07-01 16:05:59,65.61,"Singapore, SG",Gucci,Visa,No,No,53,Male
+T0667,U006,2025-06-27 00:32:28,76.05,"Singapore, SG",Gucci,Mastercard,No,Yes,25,Male
+T0668,U031,2025-07-05 13:10:01,5.32,"Tokyo, JP",Amazon,Visa,No,No,66,Female
+T0669,U001,2025-06-26 19:31:18,41.04,"Lagos, NG",Gojek,Visa,Yes,Yes,56,Male
+T0670,U047,2025-06-26 13:01:54,14.43,"Berlin, DE",Apple Store,Amex,No,Yes,56,Female
+T0671,U007,2025-06-26 00:58:34,6.55,"Tokyo, JP",Gojek,Amex,No,Yes,38,Male
+T0672,U003,2025-06-27 05:08:50,460.12,"San Francisco, USA",Alfamart,Mastercard,No,Yes,46,Female
+T0673,U022,2025-07-02 19:57:49,38.91,"Tokyo, JP",Starbucks,Mastercard,No,Yes,47,Male
+T0674,U049,2025-07-03 13:03:03,166.01,"Berlin, DE",Starbucks,Mastercard,Yes,Yes,21,Male
+T0675,U009,2025-06-28 22:40:10,29.39,"Berlin, DE",Amazon,Amex,No,Yes,36,Female
+T0676,U046,2025-07-03 19:51:32,114.41,"New York, USA",CryptoExchange,Amex,No,Yes,26,Male
+T0677,U004,2025-06-29 01:55:00,142.81,"Bangkok, TH",Amazon,Amex,Yes,No,32,Male
+T0678,U004,2025-07-01 19:57:19,90.54,"Jakarta, ID",CryptoExchange,Mastercard,No,Yes,32,Male
+T0679,U031,2025-07-01 05:20:17,63.79,"Singapore, SG",Apple Store,Amex,No,Yes,66,Female
+T0680,U027,2025-06-29 00:53:35,53.08,"Jakarta, ID",Gojek,Mastercard,No,No,29,Male
+T0681,U027,2025-07-04 20:02:47,42.9,"Jakarta, ID",Gojek,Amex,No,Yes,29,Male
+T0682,U007,2025-07-02 06:41:51,265.26,"Paris, FR",Apple Store,Amex,Yes,Yes,38,Male
+T0683,U034,2025-07-02 16:58:09,177.56,"Berlin, DE",eBay,Amex,No,Yes,45,Female
+T0684,U036,2025-07-03 20:31:19,335.32,"Paris, FR",Apple Store,Amex,No,Yes,32,Male
+T0685,U001,2025-06-25 19:36:59,13.27,"New York, USA",Tokopedia,Visa,No,No,56,Male
+T0686,U010,2025-06-30 13:33:20,131.26,"Jakarta, ID",Gojek,Visa,No,Yes,40,Male
+T0687,U017,2025-06-26 05:15:51,278.61,"Berlin, DE",Uniqlo,Mastercard,No,Yes,20,Female
+T0688,U012,2025-07-03 18:59:53,20.0,"New York, USA",Alfamart,Mastercard,No,Yes,28,Male
+T0689,U048,2025-06-26 08:59:32,6.88,"Jakarta, ID",Tokopedia,Visa,Yes,Yes,35,Male
+T0690,U042,2025-06-26 19:41:06,135.14,"Singapore, SG",eBay,Mastercard,No,No,54,Female
+T0691,U018,2025-06-27 13:43:00,85.44,"Jakarta, ID",eBay,Mastercard,Yes,Yes,39,Male
+T0692,U030,2025-06-29 23:44:40,184.41,"San Francisco, USA",CryptoExchange,Amex,No,No,42,Male
+T0693,U042,2025-06-26 00:41:52,15.06,"Singapore, SG",Tokopedia,Visa,No,Yes,54,Female
+T0694,U011,2025-07-03 07:58:33,158.61,"Jakarta, ID",CryptoExchange,Amex,No,Yes,28,Male
+T0695,U029,2025-07-04 04:07:41,22.52,"Singapore, SG",Gucci,Mastercard,No,No,61,Male
+T0696,U044,2025-07-01 09:47:15,17.87,"Singapore, SG",Uniqlo,Mastercard,Yes,Yes,24,Male
+T0697,U003,2025-06-29 22:51:40,17.94,"Jakarta, ID",Alfamart,Amex,No,No,46,Female
+T0698,U044,2025-06-30 13:11:10,168.51,"London, UK",Gucci,Amex,No,No,24,Male
+T0699,U043,2025-06-28 02:26:28,109.42,"Lagos, NG",Gojek,Amex,No,No,68,Male
+T0700,U028,2025-07-05 03:16:12,74.04,"Berlin, DE",Uniqlo,Mastercard,No,No,39,Female
+T0701,U010,2025-07-01 01:20:06,44.45,"London, UK",Gucci,Visa,Yes,No,40,Male
+T0702,U033,2025-06-27 06:24:14,209.72,"Paris, FR",Uniqlo,Visa,Yes,Yes,59,Female
+T0703,U016,2025-06-25 20:05:09,49.83,"Lagos, NG",Alfamart,Visa,No,Yes,41,Male
+T0704,U025,2025-06-30 12:22:58,169.61,"Tokyo, JP",Apple Store,Visa,No,No,38,Female
+T0705,U029,2025-07-03 11:01:06,57.83,"Jakarta, ID",Uniqlo,Mastercard,No,No,61,Male
+T0706,U048,2025-06-27 01:11:29,47.31,"New York, USA",Tokopedia,Mastercard,No,Yes,35,Male
+T0707,U001,2025-07-04 17:11:43,62.12,"Jakarta, ID",Gucci,Amex,No,No,56,Male
+T0708,U036,2025-07-03 20:58:18,35.86,"Berlin, DE",Uniqlo,Mastercard,No,Yes,32,Male
+T0709,U015,2025-06-27 15:38:55,137.68,"Paris, FR",eBay,Amex,No,Yes,57,Male
+T0710,U046,2025-06-30 08:54:50,69.86,"Lagos, NG",Uniqlo,Visa,Yes,No,26,Male
+T0711,U001,2025-07-05 06:52:23,26.42,"Lagos, NG",eBay,Amex,No,Yes,56,Male
+T0712,U034,2025-07-03 03:32:32,229.83,"Lagos, NG",Tokopedia,Visa,No,Yes,45,Female
+T0713,U046,2025-06-29 18:40:10,48.43,"Tokyo, JP",Tokopedia,Mastercard,No,Yes,26,Male
+T0714,U026,2025-07-01 19:16:58,78.43,"Berlin, DE",Uniqlo,Visa,No,Yes,50,Male
+T0715,U027,2025-06-30 04:03:16,236.95,"New York, USA",Gucci,Visa,No,Yes,29,Male
+T0716,U043,2025-07-02 16:30:57,97.88,"Bangkok, TH",Gojek,Visa,No,Yes,68,Male
+T0717,U048,2025-07-03 07:46:45,12.43,"New York, USA",Gojek,Mastercard,No,Yes,35,Male
+T0718,U033,2025-07-05 12:07:11,281.06,"Singapore, SG",Gucci,Visa,No,Yes,59,Female
+T0719,U025,2025-07-04 15:53:11,98.81,"Bangkok, TH",Gucci,Mastercard,No,Yes,38,Female
+T0720,U039,2025-07-02 19:17:01,40.78,"Berlin, DE",Alfamart,Mastercard,No,No,61,Female
+T0721,U029,2025-06-30 22:12:21,15.0,"Singapore, SG",Starbucks,Mastercard,No,No,61,Male
+T0722,U033,2025-06-29 02:06:35,158.0,"San Francisco, USA",Gojek,Mastercard,No,No,59,Female
+T0723,U041,2025-06-29 14:14:58,96.78,"Berlin, DE",Apple Store,Visa,No,Yes,20,Female
+T0724,U023,2025-07-05 01:01:08,76.24,"Singapore, SG",Starbucks,Amex,No,No,55,Female
+T0725,U046,2025-07-05 06:48:00,224.33,"Jakarta, ID",eBay,Amex,No,Yes,26,Male
+T0726,U043,2025-06-27 17:33:31,155.4,"Tokyo, JP",Gojek,Mastercard,No,Yes,68,Male
+T0727,U001,2025-07-05 04:15:43,16.45,"London, UK",Tokopedia,Visa,No,Yes,56,Male
+T0728,U004,2025-06-28 21:58:19,37.36,"Berlin, DE",Alfamart,Visa,No,No,32,Male
+T0729,U010,2025-06-25 20:20:55,28.57,"New York, USA",Alfamart,Visa,No,Yes,40,Male
+T0730,U029,2025-06-27 02:10:55,136.24,"Jakarta, ID",Gucci,Amex,No,No,61,Male
+T0731,U048,2025-07-02 04:45:03,3.41,"London, UK",CryptoExchange,Visa,No,No,35,Male
+T0732,U045,2025-06-29 10:52:55,84.37,"San Francisco, USA",Amazon,Mastercard,No,No,38,Male
+T0733,U044,2025-07-02 20:38:52,143.74,"Lagos, NG",Gojek,Visa,Yes,Yes,24,Male
+T0734,U040,2025-07-01 00:51:16,209.37,"Paris, FR",Apple Store,Amex,No,No,69,Male
+T0735,U049,2025-06-29 23:40:56,41.87,"Bangkok, TH",Gojek,Amex,No,No,21,Male
+T0736,U013,2025-06-27 03:59:44,172.18,"San Francisco, USA",Uniqlo,Visa,No,Yes,41,Male
+T0737,U012,2025-07-04 19:29:59,11.72,"London, UK",Tokopedia,Mastercard,Yes,Yes,28,Male
+T0738,U017,2025-06-25 23:27:10,187.37,"Singapore, SG",Starbucks,Amex,No,Yes,20,Female
+T0739,U030,2025-07-05 08:47:54,13.64,"Singapore, SG",Amazon,Visa,No,Yes,42,Male
+T0740,U050,2025-07-01 10:48:01,50.63,"Bangkok, TH",Alfamart,Mastercard,No,Yes,42,Male
+T0741,U005,2025-07-04 06:47:31,159.6,"Lagos, NG",Gojek,Visa,No,Yes,60,Male
+T0742,U033,2025-07-05 00:24:16,16.24,"Singapore, SG",CryptoExchange,Amex,No,Yes,59,Female
+T0743,U015,2025-06-28 22:45:28,26.04,"Berlin, DE",eBay,Mastercard,No,Yes,57,Male
+T0744,U049,2025-07-03 13:04:22,128.1,"Bangkok, TH",Gojek,Mastercard,No,No,21,Male
+T0745,U042,2025-07-03 06:28:33,127.31,"New York, USA",Tokopedia,Amex,No,Yes,54,Female
+T0746,U042,2025-06-29 19:13:52,102.48,"Bangkok, TH",Gucci,Visa,No,No,54,Female
+T0747,U021,2025-06-29 14:22:08,118.4,"Tokyo, JP",Tokopedia,Mastercard,No,No,61,Male
+T0748,U002,2025-07-05 08:57:09,78.25,"London, UK",eBay,Amex,No,Yes,69,Male
+T0749,U003,2025-07-02 15:49:29,29.01,"San Francisco, USA",Apple Store,Mastercard,No,No,46,Female
+T0750,U011,2025-06-27 14:48:21,42.42,"London, UK",Gojek,Visa,No,Yes,28,Male
+T0751,U041,2025-07-02 10:16:32,20.04,"Berlin, DE",CryptoExchange,Visa,No,No,20,Female
+T0752,U048,2025-07-03 17:06:11,239.09,"Tokyo, JP",Tokopedia,Amex,No,Yes,35,Male
+T0753,U046,2025-07-04 06:23:07,87.56,"Lagos, NG",Amazon,Visa,Yes,Yes,26,Male
+T0754,U017,2025-07-04 05:18:45,51.22,"London, UK",Tokopedia,Amex,No,No,20,Female
+T0755,U027,2025-07-03 14:20:00,61.99,"Tokyo, JP",Uniqlo,Amex,No,Yes,29,Male
+T0756,U025,2025-06-27 01:19:39,294.28,"Jakarta, ID",Gojek,Visa,No,No,38,Female
+T0757,U049,2025-07-03 20:28:30,16.65,"Bangkok, TH",Amazon,Amex,No,Yes,21,Male
+T0758,U033,2025-06-30 14:41:36,88.24,"Jakarta, ID",Alfamart,Amex,No,Yes,59,Female
+T0759,U049,2025-07-01 07:36:53,70.5,"Paris, FR",CryptoExchange,Mastercard,No,Yes,21,Male
+T0760,U011,2025-06-27 09:00:34,94.53,"London, UK",Apple Store,Visa,No,No,28,Male
+T0761,U035,2025-06-28 10:25:05,1.83,"San Francisco, USA",Starbucks,Mastercard,No,No,33,Female
+T0762,U047,2025-06-28 15:35:23,205.67,"Lagos, NG",Amazon,Amex,No,Yes,56,Female
+T0763,U003,2025-06-27 01:12:04,269.0,"New York, USA",Gucci,Amex,No,Yes,46,Female
+T0764,U006,2025-07-03 06:42:16,83.27,"San Francisco, USA",Apple Store,Amex,No,No,25,Male
+T0765,U014,2025-06-29 21:18:32,119.29,"Tokyo, JP",Gojek,Visa,Yes,Yes,53,Male
+T0766,U017,2025-06-29 11:23:49,255.75,"Berlin, DE",Tokopedia,Visa,No,Yes,20,Female
+T0767,U004,2025-07-05 03:00:00,122.84,"London, UK",Uniqlo,Amex,No,Yes,32,Male
+T0768,U005,2025-07-05 16:39:48,16.55,"San Francisco, USA",Tokopedia,Visa,No,Yes,60,Male
+T0769,U022,2025-06-26 22:36:15,85.87,"Lagos, NG",Starbucks,Amex,No,Yes,47,Male
+T0770,U040,2025-06-26 00:18:56,93.32,"Jakarta, ID",Apple Store,Mastercard,No,Yes,69,Male
+T0771,U043,2025-06-28 12:31:42,55.19,"San Francisco, USA",Gucci,Visa,No,Yes,68,Male
+T0772,U021,2025-06-27 06:03:44,133.35,"Tokyo, JP",Starbucks,Visa,No,No,61,Male
+T0773,U046,2025-06-26 10:37:18,272.37,"Tokyo, JP",Alfamart,Mastercard,Yes,No,26,Male
+T0774,U031,2025-07-02 00:08:29,259.79,"Paris, FR",Uniqlo,Mastercard,No,Yes,66,Female
+T0775,U007,2025-07-01 16:04:53,59.94,"Singapore, SG",Gucci,Visa,No,No,38,Male
+T0776,U009,2025-06-28 06:32:13,12.02,"London, UK",Apple Store,Mastercard,No,No,36,Female
+T0777,U047,2025-07-03 19:24:13,418.92,"Jakarta, ID",Amazon,Amex,No,No,56,Female
+T0778,U038,2025-07-01 10:09:05,182.57,"Tokyo, JP",Gucci,Visa,No,Yes,68,Male
+T0779,U035,2025-06-30 15:50:08,13.31,"London, UK",Uniqlo,Amex,No,Yes,33,Female
+T0780,U015,2025-06-28 10:17:15,253.63,"Bangkok, TH",Alfamart,Visa,No,Yes,57,Male
+T0781,U026,2025-06-27 10:31:46,203.94,"Lagos, NG",Gojek,Visa,No,No,50,Male
+T0782,U040,2025-06-28 21:07:22,73.16,"Singapore, SG",Gojek,Visa,No,Yes,69,Male
+T0783,U037,2025-07-03 12:27:26,89.47,"Singapore, SG",Uniqlo,Mastercard,Yes,No,64,Female
+T0784,U015,2025-06-26 02:07:08,50.92,"Jakarta, ID",Alfamart,Mastercard,No,No,57,Male
+T0785,U034,2025-06-30 09:09:13,5.63,"Lagos, NG",CryptoExchange,Mastercard,No,No,45,Female
+T0786,U003,2025-06-25 17:32:58,40.83,"Lagos, NG",Tokopedia,Amex,No,No,46,Female
+T0787,U018,2025-07-02 20:17:34,162.38,"San Francisco, USA",Gucci,Amex,No,Yes,39,Male
+T0788,U025,2025-07-02 06:41:04,0.46,"Lagos, NG",Gucci,Amex,No,Yes,38,Female
+T0789,U017,2025-06-28 19:54:47,40.57,"Tokyo, JP",Apple Store,Amex,No,No,20,Female
+T0790,U023,2025-07-05 06:11:37,50.78,"Paris, FR",Uniqlo,Amex,Yes,No,55,Female
+T0791,U029,2025-06-29 23:08:26,77.09,"Singapore, SG",Apple Store,Visa,No,Yes,61,Male
+T0792,U010,2025-06-28 20:21:47,252.39,"Singapore, SG",Starbucks,Mastercard,No,No,40,Male
+T0793,U043,2025-06-30 07:49:44,42.52,"Berlin, DE",CryptoExchange,Mastercard,No,Yes,68,Male
+T0794,U031,2025-06-26 10:31:07,42.61,"Paris, FR",Apple Store,Amex,Yes,No,66,Female
+T0795,U002,2025-07-02 15:30:15,133.75,"Berlin, DE",Amazon,Visa,No,Yes,69,Male
+T0796,U041,2025-06-30 08:46:28,60.19,"London, UK",Amazon,Amex,Yes,Yes,20,Female
+T0797,U012,2025-07-01 16:33:33,25.44,"London, UK",CryptoExchange,Amex,No,No,28,Male
+T0798,U047,2025-07-03 01:32:32,60.23,"San Francisco, USA",Tokopedia,Visa,No,No,56,Female
+T0799,U031,2025-07-04 15:00:42,15.18,"Singapore, SG",Apple Store,Mastercard,No,No,66,Female
+T0800,U050,2025-06-28 07:20:54,19.41,"Singapore, SG",Gucci,Amex,No,Yes,42,Male
+T0801,U044,2025-06-29 08:07:15,68.99,"Lagos, NG",Uniqlo,Amex,No,Yes,24,Male
+T0802,U025,2025-06-26 12:08:02,54.29,"Singapore, SG",Tokopedia,Visa,No,No,38,Female
+T0803,U033,2025-06-29 14:09:21,246.33,"Tokyo, JP",Starbucks,Amex,Yes,Yes,59,Female
+T0804,U040,2025-06-30 06:48:45,45.0,"Bangkok, TH",Amazon,Amex,No,Yes,69,Male
+T0805,U031,2025-06-27 08:49:04,86.89,"Singapore, SG",Gucci,Amex,No,No,66,Female
+T0806,U050,2025-06-28 01:48:54,100.04,"Tokyo, JP",Gojek,Mastercard,No,Yes,42,Male
+T0807,U034,2025-06-26 06:35:51,1.32,"Tokyo, JP",Apple Store,Mastercard,No,Yes,45,Female
+T0808,U038,2025-07-05 04:43:09,108.93,"Bangkok, TH",Tokopedia,Mastercard,Yes,Yes,68,Male
+T0809,U015,2025-06-25 19:42:51,19.61,"Jakarta, ID",Alfamart,Amex,No,Yes,57,Male
+T0810,U013,2025-06-28 02:29:45,324.6,"New York, USA",Amazon,Amex,No,Yes,41,Male
+T0811,U025,2025-06-29 08:57:31,16.09,"Berlin, DE",eBay,Mastercard,No,Yes,38,Female
+T0812,U042,2025-06-28 13:00:00,53.55,"Bangkok, TH",Alfamart,Mastercard,No,Yes,54,Female
+T0813,U024,2025-07-02 20:28:42,8.92,"Bangkok, TH",Alfamart,Amex,No,Yes,19,Female
+T0814,U036,2025-07-03 08:04:18,576.81,"London, UK",Uniqlo,Visa,No,Yes,32,Male
+T0815,U017,2025-06-25 20:25:54,69.75,"San Francisco, USA",Gucci,Mastercard,No,Yes,20,Female
+T0816,U009,2025-07-03 11:46:28,90.48,"Jakarta, ID",Apple Store,Mastercard,No,No,36,Female
+T0817,U007,2025-07-05 03:02:06,6.94,"Berlin, DE",Gojek,Mastercard,No,No,38,Male
+T0818,U040,2025-06-25 23:28:30,138.61,"New York, USA",Starbucks,Mastercard,No,Yes,69,Male
+T0819,U006,2025-06-29 04:36:56,23.56,"Singapore, SG",Uniqlo,Amex,No,Yes,25,Male
+T0820,U015,2025-06-26 18:51:02,228.33,"Lagos, NG",Tokopedia,Amex,Yes,Yes,57,Male
+T0821,U026,2025-06-27 15:12:25,22.96,"Bangkok, TH",Gojek,Mastercard,No,Yes,50,Male
+T0822,U050,2025-06-26 17:57:35,21.16,"Singapore, SG",Uniqlo,Mastercard,Yes,No,42,Male
+T0823,U034,2025-07-03 00:10:34,3.72,"San Francisco, USA",Apple Store,Visa,No,Yes,45,Female
+T0824,U045,2025-06-26 16:35:45,63.88,"Berlin, DE",Gucci,Visa,No,Yes,38,Male
+T0825,U042,2025-06-26 06:56:36,83.2,"New York, USA",Starbucks,Visa,No,No,54,Female
+T0826,U023,2025-07-03 10:10:55,6.8,"Tokyo, JP",CryptoExchange,Amex,No,Yes,55,Female
+T0827,U046,2025-06-28 07:15:05,149.4,"Jakarta, ID",Tokopedia,Amex,No,No,26,Male
+T0828,U038,2025-07-04 19:48:30,60.38,"Lagos, NG",eBay,Mastercard,No,No,68,Male
+T0829,U030,2025-06-28 03:20:58,74.32,"Tokyo, JP",Gucci,Visa,No,Yes,42,Male
+T0830,U007,2025-06-27 08:00:29,58.12,"London, UK",Tokopedia,Amex,No,No,38,Male
+T0831,U033,2025-06-28 01:41:41,51.21,"San Francisco, USA",Gojek,Amex,No,Yes,59,Female
+T0832,U025,2025-07-04 04:48:29,82.02,"Bangkok, TH",Uniqlo,Visa,No,No,38,Female
+T0833,U030,2025-06-28 22:52:58,16.87,"Paris, FR",Gucci,Visa,No,Yes,42,Male
+T0834,U025,2025-07-02 12:26:44,20.08,"Berlin, DE",Apple Store,Mastercard,No,Yes,38,Female
+T0835,U035,2025-06-29 00:51:27,197.89,"New York, USA",Alfamart,Visa,No,Yes,33,Female
+T0836,U048,2025-07-03 06:56:55,292.09,"Lagos, NG",Tokopedia,Amex,No,Yes,35,Male
+T0837,U023,2025-06-28 17:42:18,46.73,"Berlin, DE",Gucci,Mastercard,Yes,No,55,Female
+T0838,U013,2025-07-04 17:28:05,31.57,"Paris, FR",Apple Store,Visa,No,No,41,Male
+T0839,U014,2025-07-04 09:51:54,103.28,"Berlin, DE",Apple Store,Visa,No,Yes,53,Male
+T0840,U050,2025-07-05 11:10:46,52.55,"Jakarta, ID",Tokopedia,Visa,No,No,42,Male
+T0841,U040,2025-07-03 11:12:05,2.57,"New York, USA",Gojek,Visa,No,Yes,69,Male
+T0842,U021,2025-06-25 20:11:04,16.98,"Paris, FR",Gucci,Mastercard,No,No,61,Male
+T0843,U033,2025-07-04 06:06:49,125.87,"San Francisco, USA",CryptoExchange,Visa,No,Yes,59,Female
+T0844,U034,2025-06-26 00:06:42,107.56,"Tokyo, JP",Uniqlo,Amex,Yes,Yes,45,Female
+T0845,U044,2025-07-02 15:52:41,2.75,"Singapore, SG",Uniqlo,Visa,No,Yes,24,Male
+T0846,U045,2025-06-26 16:46:27,25.1,"New York, USA",Amazon,Amex,No,Yes,38,Male
+T0847,U021,2025-07-02 23:17:07,26.28,"Lagos, NG",Gucci,Mastercard,Yes,Yes,61,Male
+T0848,U018,2025-06-28 11:45:45,111.44,"Paris, FR",Gucci,Mastercard,No,Yes,39,Male
+T0849,U014,2025-06-29 01:58:30,1.99,"Tokyo, JP",eBay,Mastercard,No,Yes,53,Male
+T0850,U012,2025-06-28 23:21:34,10.99,"Bangkok, TH",Starbucks,Amex,No,No,28,Male
+T0851,U047,2025-06-27 03:52:53,160.9,"San Francisco, USA",Apple Store,Amex,No,Yes,56,Female
+T0852,U010,2025-07-03 13:00:06,19.67,"Singapore, SG",Uniqlo,Visa,Yes,Yes,40,Male
+T0853,U041,2025-06-28 04:22:03,105.77,"London, UK",Gojek,Amex,No,Yes,20,Female
+T0854,U017,2025-06-29 17:38:15,27.2,"London, UK",Gucci,Visa,No,No,20,Female
+T0855,U004,2025-06-26 10:04:57,10.47,"Berlin, DE",Alfamart,Mastercard,No,Yes,32,Male
+T0856,U048,2025-07-01 18:01:53,27.86,"Lagos, NG",Alfamart,Mastercard,No,Yes,35,Male
+T0857,U017,2025-07-05 13:56:10,128.11,"Lagos, NG",Amazon,Mastercard,Yes,No,20,Female
+T0858,U039,2025-07-04 13:32:08,193.58,"Berlin, DE",Gucci,Amex,No,Yes,61,Female
+T0859,U050,2025-07-04 04:36:09,177.33,"San Francisco, USA",eBay,Mastercard,No,Yes,42,Male
+T0860,U048,2025-06-26 17:58:37,50.61,"Paris, FR",Tokopedia,Mastercard,No,Yes,35,Male
+T0861,U010,2025-07-04 02:46:06,110.29,"Singapore, SG",eBay,Mastercard,No,Yes,40,Male
+T0862,U005,2025-06-26 08:06:08,22.94,"Jakarta, ID",Starbucks,Mastercard,No,Yes,60,Male
+T0863,U019,2025-06-26 03:04:14,34.69,"San Francisco, USA",Gucci,Amex,No,No,19,Female
+T0864,U050,2025-06-26 03:55:00,226.66,"Lagos, NG",Gucci,Amex,No,Yes,42,Male
+T0865,U012,2025-07-05 12:14:26,1.31,"New York, USA",Starbucks,Amex,No,Yes,28,Male
+T0866,U048,2025-07-03 03:43:10,8.94,"Jakarta, ID",Apple Store,Visa,No,Yes,35,Male
+T0867,U031,2025-06-26 19:30:04,23.31,"London, UK",Amazon,Visa,No,Yes,66,Female
+T0868,U006,2025-07-03 18:15:31,2.69,"Jakarta, ID",Alfamart,Amex,Yes,No,25,Male
+T0869,U025,2025-07-05 13:52:25,20.02,"San Francisco, USA",Apple Store,Visa,No,Yes,38,Female
+T0870,U009,2025-07-02 12:13:20,87.48,"Singapore, SG",Gojek,Visa,Yes,No,36,Female
+T0871,U021,2025-07-03 03:38:23,54.72,"Paris, FR",Uniqlo,Amex,No,Yes,61,Male
+T0872,U009,2025-06-27 23:48:54,223.19,"London, UK",Starbucks,Amex,No,No,36,Female
+T0873,U041,2025-07-05 13:26:24,170.07,"Bangkok, TH",CryptoExchange,Amex,No,Yes,20,Female
+T0874,U023,2025-06-26 09:03:03,41.83,"Paris, FR",Gojek,Visa,No,Yes,55,Female
+T0875,U024,2025-06-30 01:17:11,30.03,"Tokyo, JP",Alfamart,Visa,No,Yes,19,Female
+T0876,U049,2025-07-01 06:15:31,47.75,"Singapore, SG",eBay,Mastercard,No,Yes,21,Male
+T0877,U032,2025-07-01 02:35:49,89.23,"Paris, FR",Alfamart,Visa,No,No,44,Male
+T0878,U039,2025-06-29 16:56:55,31.21,"Berlin, DE",Amazon,Amex,No,Yes,61,Female
+T0879,U036,2025-07-04 01:01:40,97.86,"Tokyo, JP",CryptoExchange,Visa,Yes,No,32,Male
+T0880,U025,2025-06-27 03:14:01,52.66,"Tokyo, JP",Apple Store,Mastercard,Yes,No,38,Female
+T0881,U034,2025-06-27 05:46:57,80.31,"Bangkok, TH",Alfamart,Mastercard,No,Yes,45,Female
+T0882,U018,2025-07-03 17:11:55,57.29,"Tokyo, JP",Apple Store,Visa,Yes,Yes,39,Male
+T0883,U041,2025-06-30 10:07:24,34.88,"Paris, FR",Gucci,Mastercard,No,No,20,Female
+T0884,U013,2025-07-02 10:51:53,296.53,"Lagos, NG",Amazon,Visa,Yes,Yes,41,Male
+T0885,U012,2025-06-26 02:33:56,144.23,"Jakarta, ID",Alfamart,Mastercard,Yes,Yes,28,Male
+T0886,U001,2025-07-01 11:39:07,15.1,"Berlin, DE",Tokopedia,Visa,Yes,Yes,56,Male
+T0887,U027,2025-06-25 17:35:31,202.85,"San Francisco, USA",Uniqlo,Mastercard,No,No,29,Male
+T0888,U022,2025-07-02 01:25:53,66.83,"Jakarta, ID",Starbucks,Visa,No,Yes,47,Male
+T0889,U035,2025-06-28 09:53:00,224.95,"Paris, FR",Starbucks,Visa,No,Yes,33,Female
+T0890,U025,2025-06-26 10:18:51,160.87,"New York, USA",Tokopedia,Amex,No,No,38,Female
+T0891,U029,2025-07-04 01:29:15,55.38,"Berlin, DE",Amazon,Visa,No,No,61,Male
+T0892,U034,2025-06-30 10:11:18,2.27,"Berlin, DE",Uniqlo,Mastercard,No,Yes,45,Female
+T0893,U021,2025-06-26 10:09:17,31.29,"Singapore, SG",Amazon,Amex,No,Yes,61,Male
+T0894,U017,2025-06-26 07:49:54,78.01,"Paris, FR",Alfamart,Visa,No,Yes,20,Female
+T0895,U043,2025-07-03 14:23:13,100.37,"Berlin, DE",Tokopedia,Visa,No,Yes,68,Male
+T0896,U011,2025-07-04 10:10:44,29.83,"San Francisco, USA",Gucci,Visa,No,Yes,28,Male
+T0897,U003,2025-07-05 04:56:56,15.01,"Bangkok, TH",Uniqlo,Amex,No,Yes,46,Female
+T0898,U006,2025-06-28 16:46:48,180.14,"Berlin, DE",Starbucks,Mastercard,Yes,No,25,Male
+T0899,U049,2025-06-30 02:53:46,416.06,"New York, USA",Amazon,Mastercard,No,No,21,Male
+T0900,U007,2025-07-04 16:14:43,74.59,"Singapore, SG",Uniqlo,Visa,No,Yes,38,Male
+T0901,U042,2025-06-30 03:12:07,18.84,"Lagos, NG",Uniqlo,Amex,Yes,No,54,Female
+T0902,U023,2025-06-26 13:19:28,31.79,"Singapore, SG",Alfamart,Visa,No,Yes,55,Female
+T0903,U019,2025-07-02 02:51:17,1.86,"London, UK",Uniqlo,Visa,No,Yes,19,Female
+T0904,U021,2025-07-02 21:19:43,245.69,"Paris, FR",Alfamart,Amex,No,Yes,61,Male
+T0905,U005,2025-06-28 13:26:48,12.53,"London, UK",Starbucks,Mastercard,No,Yes,60,Male
+T0906,U024,2025-06-26 15:23:28,85.92,"Paris, FR",Amazon,Amex,No,No,19,Female
+T0907,U002,2025-07-02 21:03:19,32.03,"Bangkok, TH",eBay,Amex,No,No,69,Male
+T0908,U043,2025-07-02 22:37:09,80.78,"London, UK",CryptoExchange,Visa,No,Yes,68,Male
+T0909,U036,2025-07-03 09:30:29,105.39,"Singapore, SG",Gucci,Mastercard,No,No,32,Male
+T0910,U008,2025-06-29 01:46:42,177.04,"Jakarta, ID",Gojek,Amex,Yes,No,56,Male
+T0911,U009,2025-06-29 06:59:00,23.12,"Singapore, SG",Amazon,Visa,Yes,Yes,36,Female
+T0912,U003,2025-06-27 20:21:30,1.11,"Bangkok, TH",CryptoExchange,Amex,No,No,46,Female
+T0913,U038,2025-06-26 03:56:32,14.72,"San Francisco, USA",Amazon,Mastercard,No,No,68,Male
+T0914,U001,2025-06-30 22:49:25,230.28,"Berlin, DE",Uniqlo,Visa,No,No,56,Male
+T0915,U024,2025-06-26 08:47:08,207.06,"London, UK",CryptoExchange,Mastercard,No,Yes,19,Female
+T0916,U040,2025-06-26 10:06:29,90.98,"San Francisco, USA",Gojek,Visa,No,No,69,Male
+T0917,U005,2025-06-28 02:19:47,91.76,"Berlin, DE",Gojek,Visa,Yes,Yes,60,Male
+T0918,U025,2025-06-30 11:28:47,109.37,"Berlin, DE",Apple Store,Amex,No,Yes,38,Female
+T0919,U012,2025-06-27 21:06:39,19.28,"London, UK",Gojek,Mastercard,No,No,28,Male
+T0920,U037,2025-06-27 15:50:37,245.82,"Lagos, NG",Uniqlo,Amex,No,No,64,Female
+T0921,U011,2025-07-03 13:18:58,54.26,"Singapore, SG",Gojek,Mastercard,No,No,28,Male
+T0922,U035,2025-07-04 04:03:54,48.31,"Bangkok, TH",Uniqlo,Mastercard,No,Yes,33,Female
+T0923,U021,2025-07-01 02:17:51,73.17,"Lagos, NG",CryptoExchange,Amex,No,No,61,Male
+T0924,U039,2025-07-03 15:36:27,4.81,"Berlin, DE",Gucci,Amex,No,No,61,Female
+T0925,U048,2025-07-04 03:53:52,18.19,"San Francisco, USA",eBay,Mastercard,No,Yes,35,Male
+T0926,U047,2025-06-27 19:28:42,133.95,"New York, USA",Alfamart,Amex,Yes,Yes,56,Female
+T0927,U020,2025-06-25 21:25:41,8.64,"New York, USA",Alfamart,Visa,No,Yes,41,Female
+T0928,U050,2025-07-04 15:41:37,92.42,"San Francisco, USA",Gojek,Amex,No,No,42,Male
+T0929,U010,2025-07-01 07:59:56,28.15,"Jakarta, ID",Amazon,Mastercard,No,Yes,40,Male
+T0930,U024,2025-06-29 09:55:44,49.31,"Bangkok, TH",Apple Store,Visa,No,Yes,19,Female
+T0931,U037,2025-07-04 21:17:59,34.07,"Tokyo, JP",Gucci,Visa,No,No,64,Female
+T0932,U031,2025-06-25 19:51:26,43.95,"Singapore, SG",Uniqlo,Amex,No,No,66,Female
+T0933,U007,2025-07-04 08:38:09,126.96,"Bangkok, TH",Alfamart,Visa,No,Yes,38,Male
+T0934,U006,2025-06-30 21:22:23,35.26,"New York, USA",eBay,Mastercard,No,Yes,25,Male
+T0935,U008,2025-07-04 03:48:27,83.56,"Berlin, DE",Gucci,Visa,No,No,56,Male
+T0936,U004,2025-07-04 20:07:21,64.64,"San Francisco, USA",Gojek,Visa,No,Yes,32,Male
+T0937,U021,2025-06-29 00:44:48,108.97,"London, UK",Apple Store,Visa,Yes,No,61,Male
+T0938,U026,2025-07-03 06:25:11,276.19,"Paris, FR",Gucci,Amex,No,Yes,50,Male
+T0939,U019,2025-06-30 15:33:56,131.89,"Tokyo, JP",Starbucks,Visa,No,Yes,19,Female
+T0940,U048,2025-07-04 09:27:06,24.2,"New York, USA",Gojek,Mastercard,No,Yes,35,Male
+T0941,U028,2025-07-04 20:18:47,3.17,"Singapore, SG",Starbucks,Mastercard,No,Yes,39,Female
+T0942,U042,2025-06-26 05:34:15,30.42,"Bangkok, TH",Apple Store,Amex,No,No,54,Female
+T0943,U016,2025-06-28 20:16:50,90.41,"Berlin, DE",Tokopedia,Mastercard,No,Yes,41,Male
+T0944,U037,2025-06-30 00:16:44,5.28,"Jakarta, ID",Tokopedia,Amex,No,Yes,64,Female
+T0945,U013,2025-06-26 21:51:19,68.59,"Lagos, NG",eBay,Amex,No,No,41,Male
+T0946,U011,2025-07-03 02:22:53,90.84,"Lagos, NG",Gucci,Mastercard,No,Yes,28,Male
+T0947,U015,2025-06-26 14:36:34,40.68,"Berlin, DE",eBay,Visa,No,No,57,Male
+T0948,U008,2025-07-05 15:35:29,147.36,"New York, USA",Apple Store,Amex,No,No,56,Male
+T0949,U019,2025-07-03 17:29:08,11.27,"New York, USA",eBay,Amex,No,Yes,19,Female
+T0950,U031,2025-07-01 06:35:02,7.81,"New York, USA",eBay,Visa,No,Yes,66,Female
+T0951,U035,2025-07-01 16:04:12,130.26,"London, UK",Alfamart,Amex,No,No,33,Female
+T0952,U010,2025-07-05 15:01:05,68.42,"New York, USA",CryptoExchange,Amex,No,Yes,40,Male
+T0953,U017,2025-06-26 20:23:42,116.6,"Singapore, SG",Amazon,Mastercard,No,No,20,Female
+T0954,U018,2025-06-28 09:25:26,57.06,"New York, USA",Uniqlo,Amex,No,Yes,39,Male
+T0955,U043,2025-07-05 08:42:36,28.29,"San Francisco, USA",eBay,Visa,Yes,No,68,Male
+T0956,U042,2025-06-25 22:10:12,170.98,"Tokyo, JP",Apple Store,Mastercard,No,No,54,Female
+T0957,U021,2025-06-28 11:00:21,160.65,"Paris, FR",Gucci,Amex,Yes,Yes,61,Male
+T0958,U030,2025-06-27 14:24:27,118.64,"London, UK",Amazon,Visa,No,Yes,42,Male
+T0959,U022,2025-07-05 05:10:44,31.77,"Paris, FR",CryptoExchange,Amex,Yes,Yes,47,Male
+T0960,U023,2025-06-29 19:09:25,89.22,"Lagos, NG",Alfamart,Visa,No,No,55,Female
+T0961,U018,2025-07-04 06:30:25,44.78,"New York, USA",Alfamart,Mastercard,No,No,39,Male
+T0962,U002,2025-06-26 14:50:50,9.61,"London, UK",Alfamart,Visa,Yes,No,69,Male
+T0963,U043,2025-07-04 12:07:24,249.27,"Singapore, SG",Tokopedia,Amex,No,No,68,Male
+T0964,U040,2025-06-28 16:29:09,14.71,"Berlin, DE",CryptoExchange,Visa,No,Yes,69,Male
+T0965,U020,2025-07-03 05:24:56,300.05,"Bangkok, TH",eBay,Mastercard,No,Yes,41,Female
+T0966,U009,2025-06-29 14:23:12,59.06,"Bangkok, TH",Gojek,Amex,No,No,36,Female
+T0967,U020,2025-06-28 08:21:22,20.47,"London, UK",Starbucks,Mastercard,No,No,41,Female
+T0968,U010,2025-06-26 07:00:28,78.07,"Bangkok, TH",Starbucks,Mastercard,Yes,Yes,40,Male
+T0969,U047,2025-07-04 10:39:00,206.31,"Jakarta, ID",Starbucks,Mastercard,No,Yes,56,Female
+T0970,U002,2025-07-01 12:44:50,131.76,"Lagos, NG",CryptoExchange,Mastercard,No,No,69,Male
+T0971,U041,2025-07-02 03:55:33,164.28,"San Francisco, USA",Starbucks,Visa,Yes,Yes,20,Female
+T0972,U049,2025-06-27 15:16:04,107.52,"Bangkok, TH",Gucci,Mastercard,No,No,21,Male
+T0973,U039,2025-06-28 17:21:23,117.86,"Berlin, DE",Apple Store,Amex,Yes,Yes,61,Female
+T0974,U050,2025-06-28 19:34:10,189.18,"Paris, FR",Starbucks,Amex,No,Yes,42,Male
+T0975,U042,2025-07-02 23:46:45,28.72,"Lagos, NG",Starbucks,Mastercard,No,Yes,54,Female
+T0976,U013,2025-07-01 04:03:09,67.22,"Berlin, DE",Amazon,Mastercard,No,Yes,41,Male
+T0977,U018,2025-07-03 15:20:49,25.0,"Tokyo, JP",Apple Store,Amex,No,Yes,39,Male
+T0978,U014,2025-06-28 05:06:58,439.56,"Jakarta, ID",Starbucks,Mastercard,No,Yes,53,Male
+T0979,U021,2025-07-03 18:23:52,288.35,"Paris, FR",Apple Store,Mastercard,No,Yes,61,Male
+T0980,U048,2025-06-29 06:35:12,4.02,"Tokyo, JP",eBay,Mastercard,No,No,35,Male
+T0981,U039,2025-07-01 06:50:16,122.27,"London, UK",Gojek,Amex,No,No,61,Female
+T0982,U034,2025-06-27 23:35:42,259.36,"Jakarta, ID",Uniqlo,Mastercard,No,Yes,45,Female
+T0983,U016,2025-07-03 09:30:26,19.92,"London, UK",Gojek,Mastercard,No,Yes,41,Male
+T0984,U025,2025-06-28 10:32:24,83.92,"London, UK",Amazon,Visa,No,Yes,38,Female
+T0985,U020,2025-06-28 00:41:05,247.09,"San Francisco, USA",Uniqlo,Visa,No,No,41,Female
+T0986,U004,2025-07-03 05:57:25,3.45,"London, UK",Starbucks,Mastercard,No,Yes,32,Male
+T0987,U047,2025-06-26 19:40:08,119.54,"London, UK",Tokopedia,Visa,No,No,56,Female
+T0988,U045,2025-07-04 02:39:29,35.29,"London, UK",Starbucks,Mastercard,No,Yes,38,Male
+T0989,U012,2025-06-27 04:54:30,258.22,"Paris, FR",Gucci,Amex,No,No,28,Male
+T0990,U006,2025-06-29 15:21:03,354.25,"San Francisco, USA",eBay,Amex,No,No,25,Male
+T0991,U011,2025-06-28 21:52:24,288.72,"Jakarta, ID",Tokopedia,Visa,No,No,28,Male
+T0992,U006,2025-07-01 05:57:39,64.29,"London, UK",CryptoExchange,Amex,No,Yes,25,Male
+T0993,U011,2025-06-29 07:59:22,198.08,"Tokyo, JP",Gojek,Mastercard,Yes,Yes,28,Male
+T0994,U022,2025-07-04 11:02:07,186.14,"Bangkok, TH",Starbucks,Visa,No,Yes,47,Male
+T0995,U046,2025-07-04 10:39:41,38.43,"New York, USA",CryptoExchange,Mastercard,No,No,26,Male
+T0996,U029,2025-07-01 03:26:32,176.56,"San Francisco, USA",Starbucks,Visa,No,No,61,Male
+T0997,U001,2025-06-28 15:38:12,3.77,"Bangkok, TH",Alfamart,Visa,No,No,56,Male
+T0998,U035,2025-07-01 07:57:00,90.7,"New York, USA",Gucci,Mastercard,No,Yes,33,Female
+T0999,U031,2025-07-03 10:32:33,26.14,"Paris, FR",CryptoExchange,Mastercard,Yes,No,66,Female
+T1000,U016,2025-06-28 02:16:21,12.85,"London, UK",Alfamart,Amex,No,No,41,Male
